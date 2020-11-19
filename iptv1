@@ -1,0 +1,322 @@
+#EXTM3U
+#EXTINF:-1,DIV_Lig_tv_1_HD
+http://iptv.smi-iptv.com:80/live/mili/mili/3733.ts
+#EXTINF:-1,DIV_Lig_tv_2
+http://iptv.smi-iptv.com:80/live/mili/mili/3732.ts
+#EXTINF:-1,DIV_Lig_tv_3
+http://iptv.smi-iptv.com:80/live/mili/mili/3731.ts
+#EXTINF:-1,DIV_LIG_TV_4
+http://iptv.smi-iptv.com:80/live/mili/mili/3730.ts
+#EXTINF:-1,DIV_LOCA_1HD
+http://iptv.smi-iptv.com:80/live/mili/mili/3734.ts
+#EXTINF:-1,DIV_LOCA_2HD
+http://iptv.smi-iptv.com:80/live/mili/mili/3735.ts
+#EXTINF:-1,DIV_LOCA_3HD
+http://iptv.smi-iptv.com:80/live/mili/mili/3736.ts
+#EXTINF:-1,DIV_MINIKA_COCUK
+http://iptv.smi-iptv.com:80/live/mili/mili/3737.ts
+#EXTINF:-1,DIV_MINIKA_GO
+http://iptv.smi-iptv.com:80/live/mili/mili/3738.ts
+#EXTINF:-1,DIV_Moviemax_Festival
+http://iptv.smi-iptv.com:80/live/mili/mili/3739.ts
+#EXTINF:-1,DIV_MovieMax_Premiere
+http://iptv.smi-iptv.com:80/live/mili/mili/3740.ts
+#EXTINF:-1,DIV_Moviemax_Stars
+http://iptv.smi-iptv.com:80/live/mili/mili/3741.ts
+#EXTINF:-1,DIV_MOVIEMAX_TURK_HD
+http://iptv.smi-iptv.com:80/live/mili/mili/3742.ts
+#EXTINF:-1,DIV_Moviesmart_Action
+http://iptv.smi-iptv.com:80/live/mili/mili/3743.ts
+#EXTINF:-1,DIV_Moviesmart_Classic
+http://iptv.smi-iptv.com:80/live/mili/mili/3744.ts
+#EXTINF:-1,DIV_Moviesmart_Family
+http://iptv.smi-iptv.com:80/live/mili/mili/3745.ts
+#EXTINF:-1,DIV_Moviesmart_Fest
+http://iptv.smi-iptv.com:80/live/mili/mili/3746.ts
+#EXTINF:-1,DIV_Moviesmart_Gold
+http://iptv.smi-iptv.com:80/live/mili/mili/3747.ts
+#EXTINF:-1,DIV_Moviesmart_Platin
+http://iptv.smi-iptv.com:80/live/mili/mili/3748.ts
+#EXTINF:-1,DIV_Moviesmart_Platin_2
+http://iptv.smi-iptv.com:80/live/mili/mili/3749.ts
+#EXTINF:-1,DIV_Moviesmart_Premium
+http://iptv.smi-iptv.com:80/live/mili/mili/3750.ts
+#EXTINF:-1,DIV_Moviesmart_Premium_2
+http://iptv.smi-iptv.com:80/live/mili/mili/3751.ts
+#EXTINF:-1,DIV_Moviesmart_Turk
+http://iptv.smi-iptv.com:80/live/mili/mili/3752.ts
+#EXTINF:-1,DIV_NollyWood_TV
+http://iptv.smi-iptv.com:80/live/mili/mili/3651.ts
+#EXTINF:-1,DIV_HALK_TV
+http://iptv.smi-iptv.com:80/live/mili/mili/3722.ts
+#EXTINF:-1,DIV_HISTORY_HD
+http://iptv.smi-iptv.com:80/live/mili/mili/3723.ts
+#EXTINF:-1,DIV_IL_TV
+http://iptv.smi-iptv.com:80/live/mili/mili/3648.ts
+#EXTINF:-1,DIV_IZTV_HD
+http://iptv.smi-iptv.com:80/live/mili/mili/3724.ts
+#EXTINF:-1,DIV_Joy_News
+http://iptv.smi-iptv.com:80/live/mili/mili/3649.ts
+#EXTINF:-1,DIV_KALSAN_TV
+http://iptv.smi-iptv.com:80/live/mili/mili/3675.ts
+#EXTINF:-1,DIV_KANAL_24
+http://iptv.smi-iptv.com:80/live/mili/mili/3725.ts
+#EXTINF:-1,DIV_KANAL_7_HD
+http://iptv.smi-iptv.com:80/live/mili/mili/3726.ts
+#EXTINF:-1,DIV_KANAL_D_HD
+http://iptv.smi-iptv.com:80/live/mili/mili/3727.ts
+#EXTINF:-1,DIV_Kedu_TV_(_Ghana__)
+http://iptv.smi-iptv.com:80/live/mili/mili/3678.ts
+#EXTINF:-1,DIV_KRAL
+http://iptv.smi-iptv.com:80/live/mili/mili/3728.ts
+#EXTINF:-1,DIV_KRAL_POP_TV
+http://iptv.smi-iptv.com:80/live/mili/mili/3729.ts
+#EXTINF:-1,DIV_LIBERATION_TV
+http://iptv.smi-iptv.com:80/live/mili/mili/3650.ts
+
+#EXTINF:-1,TR: LIG TV (BeinSPorts) 1 HD
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/2061.ts
+#EXTINF:-1,TR: Lig TV (BeinSPorts) 3 HD
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/2059.ts
+#EXTINF:-1,TR: Sports TV
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/2066.ts
+#EXTINF:-1,TR: NTV SPOR HD
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/1869.ts
+#EXTINF:-1,TR: TRT 1 HD
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/3084.ts
+#EXTINF:-1,TR: Ntv HD
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/3082.ts
+#EXTINF:-1,TR: FOX TV
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/3085.ts
+#EXTINF:-1,TR: BABY-TV
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/3081.ts
+#EXTINF:-1,TR: TRT Haber
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/3083.ts
+#EXTINF:-1,TR: ATV HD
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/3086.ts
+#EXTINF:-1,TR: Bein IZ TV
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4336.ts
+#EXTINF:-1,TR: BEIN SPORT MAX 1
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4348.ts
+#EXTINF:-1,TR: BEIN SPORT MAX 2
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4347.ts
+#EXTINF:-1,TR: BEINSPORT HABER
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4358.ts
+#EXTINF:-1,TR: LIG TV
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4356.ts
+#EXTINF:-1,TR: LIG TV 3
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4352.ts
+#EXTINF:-1,TR: LIG TV 4
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4351.ts
+#EXTINF:-1,TR: LIG TV VIP
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4357.ts
+#EXTINF:-1,TR: LIG TV YEDEK
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4349.ts
+#EXTINF:-1,TR: LIGTV 2
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4354.ts
+#EXTINF:-1,TR: LIGTV 2 VIP
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4355.ts
+#EXTINF:-1,TR: LIGTV 3 VIP
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4353.ts
+#EXTINF:-1,TR: LIGTV 5 ( 91 KANAL )
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4350.ts
+#EXTINF:-1,TR: SARAN SPORT
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4338.ts
+#EXTINF:-1,TR: SARAN SPORT YEDEK
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4337.ts
+#EXTINF:-1,TR: SMARTSPOR
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4339.ts
+#EXTINF:-1,TR: TIVIBUSPOR
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4346.ts
+#EXTINF:-1,TR: TIVIBUSPOR 1 YEDEK
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4345.ts
+#EXTINF:-1,TR: TIVIBUSPOR 2
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4344.ts
+#EXTINF:-1,TR: TIVIBUSPOR 2 YEDEK
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4343.ts
+#EXTINF:-1,TR: TIVIBUSPOR 3
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4342.ts
+#EXTINF:-1,TR: TIVIBUSPOR 3 YEDEK
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4341.ts
+#EXTINF:-1,TR: TIVIBUSPOR 4
+http://super1.ideaiptv.com:8000/live/BCE/ewrr434535/4340.ts
+
+#EXTINF:-1,TR:BEIN-SPORT-1HD
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/1038.ts
+#EXTINF:-1,TR-BEIN-SPORT-2HD
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/1039.ts
+#EXTINF:-1,TR:BEIN_SPORTS_HD3
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/401.ts
+#EXTINF:-1,TR-BEIN-SPORT-3HD
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/1040.ts
+#EXTINF:-1,TR|beIN_IZ_HD
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/15.ts
+#EXTINF:-1,TR:SPORTS_ TV
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/680.ts
+#EXTINF:-1,TR: NTV_ SPOR
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/498.ts
+#EXTINF:-1,TR:TV_2
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/445.ts
+#EXTINF:-1,TR:TRT_TURK HD
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/615.ts
+#EXTINF:-1,TR:TRT_SPOR_HD
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/447.ts
+#EXTINF:-1,TR:TRT_HABERHD
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/617.ts
+#EXTINF:-1,TR:TRT_HABER_HD
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/449.ts
+#EXTINF:-1,TR:CARTOON NETWORK
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/450.ts
+#EXTINF:-1,TR:TRT_BELGESELHD
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/619.ts
+#EXTINF:-1,TR:BEIN_SPORTS_HD2
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/452.ts
+#EXTINF:-1,TR:HISTORY_ HD
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/620.ts
+#EXTINF:-1,TR:TRT_1
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/453.ts
+#EXTINF:-1,TR:ANIMAL_PLANET_HD
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/456.ts
+#EXTINF:-1,TR:PLANET_TURK
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/468.ts
+#EXTINF:-1,TR:NTV_SPOR_HD
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/470.ts
+#EXTINF:-1,TR:BEIN_BOX_OFFICE 3
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/614.ts
+#EXTINF:-1,TR:BEIN_SPORTS_ HD1
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/524.ts
+#EXTINF:-1,TR:LiG_TV_2HD
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/475.ts
+#EXTINF:-1,TR:DISNEY_CHANNEL
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/872.ts
+#EXTINF:-1,TR:FLASH_TV
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/869.ts
+#EXTINF:-1,TR:HALK_TV
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/870.ts
+#EXTINF:-1,TR:Nickelodeon
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/1091.ts
+#EXTINF:-1,TR:TV_8
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/867.ts
+#EXTINF:-1,TR:KANAL_A
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/481.ts
+#EXTINF:-1,TR:DREAM_TURK
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/485.ts
+#EXTINF:-1,TR:ATV_HD
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/874.ts
+#EXTINF:-1,TR-Salon_3
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/662.ts
+#EXTINF:-1,TR-Salon_2
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/663.ts
+#EXTINF:-1,TR-Nat_Geo_Wild
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/665.ts
+#EXTINF:-1,TR-Kanal_D
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/669.ts
+#EXTINF:-1,TR:TRT_ SPOR
+http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/433.ts
+
+#EXTINF:-1,TR: BEINSPORT HABER
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/154.ts
+#EXTINF:-1,TR: BEINSPORT 1 HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/155.ts
+#EXTINF:-1,TR: BEINSPORT 2 HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/156.ts
+#EXTINF:-1,TR: BEINSPORT 3 HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/157.ts
+#EXTINF:-1,TR: TIVIBU SPOR2 HD YEDEK
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/158.ts
+#EXTINF:-1,TR: TIVIBUSPOR2 HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/159.ts
+#EXTINF:-1,TR: TIVIBU SPOR3 HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/160.ts
+#EXTINF:-1,TR: TRT SPORT
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/166.ts
+#EXTINF:-1,TR: A_SPOR
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/190.ts
+#EXTINF:-1,TR: CITYMAX MOVIE 1
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/1.ts
+#EXTINF:-1,TR: CITYMAX MOVIE 2
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/2.ts
+#EXTINF:-1,TR: CITYMAX TÜRK
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3.ts
+#EXTINF:-1,TR: CITYMAX BELGESEL
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3201.ts
+#EXTINF:-1,TR: CITYMAX ANIMASYON
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/4.ts
+#EXTINF:-1,TR: FIL TV
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/162.ts
+#EXTINF:-1,TR: TRT1 HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/164.ts
+#EXTINF:-1,TR: TRT HABER
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/165.ts
+#EXTINF:-1,TR: ATV TV HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/169.ts
+#EXTINF:-1,TR: STAR TV HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/170.ts
+#EXTINF:-1,TR: SHOW TV HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/168.ts
+#EXTINF:-1,TR: NTV HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/173.ts
+#EXTINF:-1,TR: KANAL7 HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/172.ts
+#EXTINF:-1,TR: CNN TURK HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/175.ts
+#EXTINF:-1,TR: FOX_TV
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/194.ts
+#EXTINF:-1,TR: TV_8
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/196.ts
+#EXTINF:-1,TR: FOX TV HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/195.ts
+#EXTINF:-1,TR: BEYAZ TV
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/197.ts
+#EXTINF:-1,TR: KANAL D HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/174.ts
+#EXTINF:-1,TR: TEVE2 HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/176.ts
+#EXTINF:-1,TR: A_HABER
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/193.ts
+#EXTINF:-1,TR: EUROSTAR TV HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/171.ts
+#EXTINF:-1,TR: TRT BELGESEL
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/167.ts
+#EXTINF:-1,TR: TGRT Belgesel
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/180.ts
+#EXTINF:-1,TR: History Channel
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/178.ts
+#EXTINF:-1,TR: Nuhbaba TV HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/179.ts
+#EXTINF:-1,TR: National Geographic HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/177.ts
+#EXTINF:-1,TR: Semerkand TV HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/183.ts
+#EXTINF:-1,TR: SUPER TENIS
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/191.ts
+#EXTINF:-1,TR: POWER_TURK
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/202.ts
+#EXTINF:-1,TR: NR_1
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/203.ts
+#EXTINF:-1,TR: KRAL POP HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/201.ts
+#EXTINF:-1,TR: KRAL TV HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/200.ts
+#EXTINF:-1,TR: DREAM TV TURK
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/205.ts
+#EXTINF:-1,TR: DREAM TV
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/204.ts
+#EXTINF:-1,TR: 360 HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/199.ts
+#EXTINF:-1,TR: 24 TV
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/198.ts
+#EXTINF:-1,TR: TV 4
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/209.ts
+#EXTINF:-1,TR: TRT COCUK
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/207.ts
+#EXTINF:-1,TR: TRT Diyanet
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/182.ts
+#EXTINF:-1,TR: Medine TV
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/189.ts
+#EXTINF:-1,TR: Dost TV
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/185.ts
+#EXTINF:-1,TR: Yasin TV
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/188.ts
+#EXTINF:-1,TR: Yaban TV
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/181.ts
