@@ -1,260 +1,159 @@
-#EXTINF:-1,1beIN TURKEY HD 1
+#EXTM3U 
+#EXTINF: -1 group-title="Spor", 1NTVSPOR HD
 http://188.40.186.148:8484/ntvspor.ts
-#EXTINF:-1,2beINSPORTS HD 1
-http://188.40.186.148:8484/hls/ntvspor/playlist.m3u8
-#EXTINF:-1,beINSPORTS HD 1+
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Turkish/3d00f47457b64c6.m3u8
-#EXTINF:-1,beINSPORTS HD 2+
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Turkish/c430c4310a858ff.m3u8
-#EXTINF:-1,ATV HD 
-
-http://str01.canlitvlive.io:25461/tv/tv/319
-
-
-#EXTINF:-1,SHOW TV HD 
-
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1,STAR TV HD 
-
-https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
-
-
-#EXTINF:-1,KANAL D HD 
-
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1,FOX TV HD 
-
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1,TRT 1 HD 
-
-https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1,KANAL 7 HD
-
-https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/chunklist_b2064000.m3u8
-
-
-#EXTINF:-1,TV 8 HD 
-
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
-
-
-#EXTINF:-1,TV 8.5 HD 
-
-https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist_b2064000.m3u8
-
-
-#EXTINF:-1,TR24TV HD 
-
-https://canli.ensonhaber.com/tr/24tv/index.m3u8
-
-
-#EXTINF:-1,A HABER HD 
-
-http://str01.canlitvlive.io:25461/tv/tv/213
-
-
-#EXTINF:-1,EGE TV HD 
-
-https://waw2.artiyerelmedya.net/egetv/bant1/chunks.m3u8
-
-#EXTINF:-1,VATAN TV
- 
-http://ch.canlitvlive.io/vatantv/live.m3u8
-
-#EXTINF:-1,YABAN TV HD 
-
-https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w745413644.m3u8
-
-
-#EXTINF:-1,ULKE TV HD 
-
-https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/chunklist_b2064000.m3u8
-
-
-#EXTINF:-1,TV100 HD 
-
-http://str01.canlitvlive.io:25461/tv/tv/275
-
-#EXTINF:-1,TV NET HD 
-
-http://ch.canlitvlive.io/tvnet/live.m3u8
-
-#EXTINF:-1,360 TV HD 
-
-http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
-
-#EXTINF:-1,CNN TURK HD 
-
-https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1,HABER TURK HD 
-
-https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1,HABER GLOBAL HD 
-
-https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1,NTV HD 
-
-https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1,TRT HABER HD 
-
-https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1,TRT TURK HD 
-
-https://tv-trtturk.live.trt.com.tr/master.m3u8
-
-#EXTINF:-1,TRT COCUK HD 
-
-https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/chunklist_b2064000.m3u8
-
-
-#EXTINF:-1,TRT BELGESEL HD 
-
-https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1,TGRT BELGESEL 
-
-http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/chunklist.m3u8
-
-#EXTINF:-1,VUSLAT TV HD 
-
-https://waw2.artiyerelmedya.net/vuslattv/bant1/chunks.m3u8
-
-#EXTINF:-1,EKOTURK HD 
-
-https://mn-nl.mncdn.com/blutv_ekoturk/smil:ekoturk_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1,A SPOR HD 
+#EXTINF: -1 group-title="Spor", 2beINSPORTS HD 1
+http://188.40.186.148:8484/ntvspor.ts
+#EXTINF: -1 group-title="Spor", beINSPORTS HD 1 1080p
+http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17887.m3u8
+#EXTINF: -1 group-title="Spor", beINSPORTS HD 2 1080p
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17878
+#EXTINF: -1 group-title="Spor", A SPOR HD
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1,BEYAZ TV HD 
-
-https://canli.ensonhaber.com/tr/beyaztv/index.m3u8
-
-
-#EXTINF:-1,TGRT HABER HD 
-
-https://mn-nl.mncdn.com/blutv_tgrthaber/smil:tgrthaber_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1,A PARA HD
- 
-https://mn-nl.mncdn.com/blutv_apara/smil:apara_sd.smil/chunklist_b1788000.m3u8
-
-#EXTINF:-1,AKIT TV HD 
-
-http://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-
-#EXTINF:-1,HALK TV HD 
-
-https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1,HABER 61 TV 
-
-http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/chunklist.m3u8
-
-#EXTINF:-1,A2 HD 
-
-https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1,DMAX HD 
-
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.sltur.m3u8
-
-#EXTINF:-1,UCANKUS TV 
-
-https://mn-nl.mncdn.com/blutv_ucankus/ucankus_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1,KANAL B HD 
-
-https://mn-nl.mncdn.com/blutv_kanalb/smil:kanalb_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1,S SPORT HD 1
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Turkish/a89ef8d72b51315.m3u8
-#EXTINF:-1,TRT SPOR HD
+#EXTINF: -1 group-title="Spor", LIG TV HD 1
+http://188.40.186.148:8484/ntvspor.ts
+#EXTINF: -1 group-title="Spor", NTVSPOR HD
+http://188.40.186.148:8484/ntvspor.ts
+#EXTINF: -1 group-title="Spor", S SPORT HD 1
+http://u4kip.tv:8000/Caglarkilit/wQSEiZy5Y4/3648
+#EXTINF: -1 group-title="Spor", TRT SPOR HD
 https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_sd.smil/playlist.m3u8
-#EXTINF:-1,TRT SPOR 2 HD
+#EXTINF: -1 group-title="Spor", TRT SPOR 2 HD
 https://tv-trtspor2.live.trt.com.tr/master.m3u8
-#EXTINF:-1,TAY TV HD
+#EXTINF: -1 group-title="Spor", TAY TV HD
 https://mn-nl.mncdn.com/blutv_taytv/smil:taytv_sd.smil/playlist.m3u8
-#EXTINF:-1,GS TV HD
+#EXTINF: -1 group-title="Spor", GS TV HD
 http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1,IDMAN TV HD
-http://85.132.53.55/azerbaijan/idmanhd/playlist.m3u8
-#EXTINF:-1,CBC SPORT HD
-https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
-#EXTINF:-1,SINEMA TV 1 HD
+#EXTINF: -1 group-title="Spor", FB TV HD
+http://str01.canlitvlive.io:25461/tv/tv/326
+#EXTINF: -1 group-title="Spor", CBC SPORT HD
+http://str01.canlitvlive.io:25461/tv/tv/286
+#EXTINF: -1 group-title="Sinema", SINEMA TV 1 HD
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/b0b0f62a5120a1e.m3u8
-#EXTINF:-1,SINEMA TV 2 HD
+#EXTINF: -1 group-title="Sinema", SINEMA TV 2 HD
 https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
-#EXTINF:-1,SINEMA TV 3 HD
+#EXTINF: -1 group-title="Sinema", SINEMA TV 3 HD
 https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
-#EXTINF:-1,SINEMA TV 4 HD
+#EXTINF: -1 group-title="Sinema", SINEMA TV 4 HD
 https://cdn.yayin.com.tr/aktiftv/aktiftv/chunklist_w531772223.m3u8
-#EXTINF:-1,SINEMA YESILCAM TV 1 HD
+#EXTINF: -1 group-title="Sinema", SINEMA TV ACTION HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/ae4ddae3c3ca127.m3u8
+#EXTINF: -1 group-title="Sinema", SINEMA TV AILE HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/ae8c710b3f26a93.m3u8
+#EXTINF: -1 group-title="Sinema", SINEMA YESILCAM TV 1 HD
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
-#EXTINF:-1,SINEMA TURK TV 1 HD
+#EXTINF: -1 group-title="Sinema", SINEMA TURK TV 1 HD
 https://5be5d840359c6.streamlock.net/kanal19tv/kanal19tv/playlist.m3u8
-#EXTINF:-1,SINEMA TURK TV 2 HD
-http://ch.canlitvlive.io/anadolu-tv/live.m3u8
-#EXTINF:-1,SINEMA CINE5 TV HD
+#EXTINF: -1 group-title="Sinema", SINEMA TURK TV 2 HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/808b690529fd228.m3u8
+#EXTINF: -1 group-title="Sinema", VIP KEMAL SUNAL TV HD
+http://alierkut.mine.nu:8004/hls/vipdizi9.m3u8
+#EXTINF: -1 group-title="Sinema", VIP GULDUR GULDUR TV HD
+http://alierkut.mine.nu:8004/hls/vipdizi5.m3u8
+#EXTINF: -1 group-title="Sinema", beIN MOVIES PREMIERE HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/fafb2c9d4ec6c11.m3u8
+#EXTINF: -1 group-title="Sinema", beIN MOVIES STARS HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/e4ed1cf6f8facd4.m3u8
+#EXTINF: -1 group-title="Sinema", beIN MOVIES ACTION HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/921b191191cf2a4.m3u8
+#EXTINF: -1 group-title="Sinema", SINEMA CINE5 TV HD
 https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8
-#EXTINF:-1,NAT GEO WILD HD
+#EXTINF: -1 group-title="Sinema", SINEMA VIZYON TV HD
+https://vizyontv.yayin.com.tr/vizyontv/vizyontv/playlist.m3u8
+#EXTINF: -1 group-title="Sinema", FX HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/1dd96e3ba3cc013.m3u8
+#EXTINF: -1 group-title="Sinema", beIN BOXOFFICE HD 1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/6a1fe847f143746.m3u8
+#EXTINF: -1 group-title="Sinema", beIN BOXOFFICE HD 2
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/fb00f3cb423198b.m3u8
+#EXTINF: -1 group-title="Sinema", beIN BOXOFFICE HD 3
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/5fdaff84c46bdf3.m3u8
+#EXTINF: -1 group-title="Belgesel", NAT GEO HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/c51b1f3d0b80bd1.m3u8
+#EXTINF: -1 group-title="Belgesel", NAT GEO WILD HD
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/ed1f49fc2ecdc5e.m3u8
-#EXTINF:-1,DIYANET TV HD 
-
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-
-
-#EXTINF:-1,MANISA TV 
-
-http://yayin.netradyom.com:1935/live/manisatv/playist.m3u8
-
-#EXTINF:-1,MAVIKARADENIZ 
-
-http://yerelmedya.tv:1935/mavikaradeniz/bant1/chunklist_w373433044.m3u8
-
-#EXTINF:-1,NR1 HD 
-
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunks.m3u8
-
-#EXTINF:-1,NR1 TURK HD 
+#EXTINF: -1 group-title="Belgesel", DISCOVERY HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/350a09f185cda24.m3u8
+#EXTINF: -1 group-title="Belgesel", HISTORY TV HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/b4d948d2d4d3045.m3u8
+#EXTINF: -1 group-title="Belgesel", TRT BELGESEL HD
+https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="Belgesel", DMAX HD
+http://str01.canlitvlive.io:25461/tv/tv/324
+#EXTINF: -1 group-title="Belgesel", TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF: -1 group-title="Ulusal", ATV HD
+http://str01.canlitvlive.io:25461/tv/tv/319
+#EXTINF: -1 group-title="Ulusal", SHOW TV HD
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="Ulusal", STAR TV HD
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="Ulusal", KANAL D HD
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="Ulusal", FOX TV HD
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="Ulusal", TRT 1 HD
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="Ulusal", KANAL 7 HD
+https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="Ulusal", TV 8 HD
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="Ulusal", TV 8.5 HD
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="Ulusal", TR 360 HD
+https://canli.ensonhaber.com/tr/360tv/index.m3u8
+#EXTINF: -1 group-title="Ulusal", A2 HD
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="Ulusal", BEYAZ TV HD
+https://canli.ensonhaber.com/tr/beyaztv/index.m3u8
+#EXTINF: -1 group-title="Ulusal", HALK TV HD
+https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="Haber", A HABER HD
+http://str01.canlitvlive.io:25461/tv/tv/213
+#EXTINF: -1 group-title="Haber", TV100 HD
+http://str01.canlitvlive.io:25461/tv/tv/275
+#EXTINF: -1 group-title="Haber", CNN TURK HD
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="Haber", HABER TURK HD
+https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="Haber", KANAL B HD
+https://mn-nl.mncdn.com/blutv_kanalb/smil:kanalb_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="Haber", TR24TV HD
+https://canli.ensonhaber.com/tr/24tv/index.m3u8
+#EXTINF: -1 group-title="Müzik", NR1 TURK HD
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunks.m3u8
-
-
-#EXTINF:-1,MILYON TV 
-
-https://live38.netmedya.net/hls/milyontv.m3u8
-
-#EXTINF:-1,TRT MUZIK HD 
-
+#EXTINF: -1 group-title="Müzik", TRT MUZIK HD
 https://mn-nl.mncdn.com/blutv_trtmuzik/smil:trtmuzik_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1,DREAM TURK HD 
-
+#EXTINF: -1 group-title="Müzik", DREAM TURK HD
 https://mn-nl.mncdn.com/blutv_dreamturk/smil:dreamturk_sd.smil/chunklist_b2064000.m3u8
-
-
-#EXTINF:-1,POWER TV HD 
-
-https://mn-nl.mncdn.com/blutv_power/smil:power_sd.smil/chunklist_b2064000.m3u8
-
-
-#EXTINF:-1,POWER TURK HD 
-
-https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/chunklist_b2064000.m3u8
-
-
-#EXTINF:-1,KRAL POP HD 
-
-http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
-
-#EXTINF:-1,KRAL TV HD 
-
-http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF: -1 group-title="Müzik", KRAL POP HD
+http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF: -1 group-title="Çocuk", TRT COCUK HD
+https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="Çocuk", Minika GO HD
+http://str01.canlitvlive.io:25461/tv/tv/222
+#EXTINF: -1 group-title="Çocuk", Minika COCUK HD
+http://str01.canlitvlive.io:25461/tv/tv/223
+#EXTINF: -1 group-title="Vod", Bayan Kurşun - Bala - 2019 - AKSİYON-GERİLİM
+https://srv28.filmmodu.xyz/tt5941692/720p.tr.m3u8
+#EXTINF: -1 group-title="Vod", Bilimkurgu FILM
+https://srv19.filmmodu.xyz/tt6292852/720p.tr.m3u8
+#EXTINF: -1 group-title="Vod", Captain Marvel - 2019 - AKSİYON
+https://srv53.filmmodu.xyz/tt4154664/720p.tr.m3u8
+#EXTINF: -1 group-title="Vod", Denge - Shaft -2019 - AKSİYON-SUÇ
+https://srv31.filmmodu.xyz/tt4463894/720p.tr.m3u8
+#EXTINF: -1 group-title="Vod", Dünü Kurtarmak - You Yesterday - 2019 - Bilim Kurgu
+https://srv97.filmmodu.xyz/tt8743064/720p.tr.m3u8
+#EXTINF: -1 group-title="Vod", FILM MACERA
+https://srv93.filmmodu.xyz/tt6823368/720p.tr.m3u8
+#EXTINF: -1 group-title="Vod", Issız Bir Adaya Düşsen Yanına Kimi Alırdın? - 2019 - KOMEDİ-DRAM
+https://srv17.filmmodu.xyz/tt8976832/720p.tr.m3u8
+#EXTINF: -1 group-title="Vod", KOMEDİ
+https://srv87.filmmodu.xyz/tt8323104/720p.tr.m3u8
+#EXTINF: -1 group-title="Vod", Paint - EFSANE SÜRÜCÜ - 2019 - AKSİYON
+https://srv17.filmmodu.xyz/tt7052494/720p.tr.m3u8
+#EXTINF: -1 group-title="Vod", The Hard - Ortak 2019 - AKSİYON
+https://srv49.filmmodu.xyz/tt9815714/720p.tr.m3u8
+#EXTINF: -1 group-title="Vod", The Perfection - 2019 - GERİLİM.
+https://srv37.filmmodu.xyz/tt7772580/720p.tr.m3u8
+#EXTINF: -1 group-title="Vod", Shazam!-Shazam! 6 Güç - 2019 - MACERA - FANTASTİK KOMEDİ
+https://srv70.filmmodu.xyz/tt0448115/720p.tr.m3u8
