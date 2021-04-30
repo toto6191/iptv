@@ -1,1 +1,11 @@
-http://zero2.site:8080/get.php?username=zero&password=zero&type=m3u
+#EXTM3U 
+#PLAYLIST:Playlist1
+#EXTINF:-1 tvg-name="Channel 1" tvg-logo="http://site.domain / channel1_logo.png", Channel 1
+#EXTGRP:Group1
+http://site.domain/channel1
+#EXTINF:-1 tvg-name="Channel 2" tvg-logo="http://site.domain / channel2_logo.png", Channel 2
+#EXTGRP:Group1
+http://site.domain/channel2
+#EXTINF:-1 tvg-name="Channel 3" tvg-logo="http://site.domain / channel3_logo.png", Channel 3
+#EXTGRP:Group2
+http://site.domain/channel3 -- reports and targets
