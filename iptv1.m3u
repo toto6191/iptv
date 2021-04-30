@@ -1,11 +1,378 @@
 #EXTM3U 
-#PLAYLIST:Playlist1
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="http://site.domain / channel1_logo.png", Channel 1
-#EXTGRP:Group1
-http://site.domain/channel1
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="http://site.domain / channel2_logo.png", Channel 2
-#EXTGRP:Group1
-http://site.domain/channel2
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="http://site.domain / channel3_logo.png", Channel 3
-#EXTGRP:Group2
-http://site.domain/channel3 -- reports and targets
+EXTINF:-1,▬ Turkey [TR]  ▬
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/16513
+#EXTINF:-1,TRT 4K TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/22852
+#EXTINF:-1,TRT 1 FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14230
+#EXTINF:-1,TRT 1 HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/10008
+#EXTINF:-1,TRT 1 TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5121
+#EXTINF:-1,TRT 2 FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/27124
+#EXTINF:-1,TRT 3 Sport TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/27125
+#EXTINF:-1,TRT Haber FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14236
+#EXTINF:-1,TRT Haber TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/27121
+#EXTINF:-1,TRT Belgesel FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14231
+#EXTINF:-1,TRT Belgesel TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5145
+#EXTINF:-1,TRT World HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/17297
+#EXTINF:-1,TRT World TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/27537
+#EXTINF:-1,TRT Çocuk TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5123
+#EXTINF:-1,TRT Müzik TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5171
+#EXTINF:-1,TRT EBA TV Ilkokul TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37387
+#EXTINF:-1,TRT EBA TV Ilkokul HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37388
+#EXTINF:-1,TRT EBA TV Lise TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37389
+#EXTINF:-1,TRT EBA TV Lise HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37390
+#EXTINF:-1,TRT EBA TV Ortakul TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37391
+#EXTINF:-1,TRT EBA TV Ortakul HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37392
+#EXTINF:-1,TRT Arabi TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/27123
+#EXTINF:-1,TRT Avaz TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/27122
+#EXTINF:-1,TRT Diyanet TV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5156
+#EXTINF:-1,TRT Türk TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/17321
+#EXTINF:-1,TRT Spor FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14241
+#EXTINF:-1,TRT Spor TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5122
+#EXTINF:-1,TRT Spor 2 FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/29862
+#EXTINF:-1,Star TV FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14223
+#EXTINF:-1,Star TV HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5126
+#EXTINF:-1,Star TV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/10009
+#EXTINF:-1,KANAL D FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14222
+#EXTINF:-1,KANAL D TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5124
+#EXTINF:-1,ATV FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14221
+#EXTINF:-1,ATV HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5125
+#EXTINF:-1,ATV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/10010
+#EXTINF:-1,Show TV FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14226
+#EXTINF:-1,Show TV HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5127
+#EXTINF:-1,Show Max TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/28425
+#EXTINF:-1,Show Turk TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/10012
+#EXTINF:-1,FOX FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14224
+#EXTINF:-1,FOX TV HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5128
+#EXTINF:-1,TV8 FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14225
+#EXTINF:-1,TV8 HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5129
+#EXTINF:-1,TV 8.5 HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14436
+#EXTINF:-1,TV8 Int FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5154
+#EXTINF:-1,Beyaz TV FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14229
+#EXTINF:-1,Beyaz TV HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5137
+#EXTINF:-1,KANAL 7 FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14227
+#EXTINF:-1,KANAL 7 TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5131
+#EXTINF:-1,KANAL 7 Avrupa TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/18265
+#EXTINF:-1,A Haber FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14232
+#EXTINF:-1,A Haber TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5150
+#EXTINF:-1,Habertürk HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14235
+#EXTINF:-1,CNN TÜRK HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14234
+#EXTINF:-1,CNN TÜRK TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5149
+#EXTINF:-1,TV 100 HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/28201
+#EXTINF:-1,Ülke TV FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14237
+#EXTINF:-1,Ülke TV HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5144
+#EXTINF:-1,NTV FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14233
+#EXTINF:-1,NTV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5134
+#EXTINF:-1,Bloomberg HT TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/18205
+#EXTINF:-1,Discovery Channel FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5164
+#EXTINF:-1,Discovery Science FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5163
+#EXTINF:-1,Investigation Discovery TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/27018
+#EXTINF:-1,National Geographic FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5165
+#EXTINF:-1,National Geographic Wild HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/12765
+#EXTINF:-1,National Geographic Wild TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5166
+#EXTINF:-1,DMAX HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/23618
+#EXTINF:-1,Animal Planet FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5152
+#EXTINF:-1,Animal Planet TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/27126
+#EXTINF:-1,BBC Earth TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/18330
+#EXTINF:-1,FOX Crime HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/18209
+#EXTINF:-1,History HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/18329
+#EXTINF:-1,Yaban TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/18207
+#EXTINF:-1,TLC TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/18208
+#EXTINF:-1,24 Kitchen HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/29047
+#EXTINF:-1,Baby TV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/19621
+#EXTINF:-1,CBeebies HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/22982
+#EXTINF:-1,Cartoon Network TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5138
+#EXTINF:-1,Disney Junior FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/17809
+#EXTINF:-1,minikaGO TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5139
+#EXTINF:-1,minikaCocuk TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5116
+#EXTINF:-1,Nick Jr. TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/19609
+#EXTINF:-1,Disney Channel HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5172
+#EXTINF:-1,Da Vinci Learning HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5141
+#EXTINF:-1,Tivibu Spor FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/12755
+#EXTINF:-1,Tivibu Spor 2 HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/12756
+#EXTINF:-1,Tivibu Spor 3 HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/15736
+#EXTINF:-1,A Spor FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14239
+#EXTINF:-1,A Spor TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5133
+#EXTINF:-1,Smart Spor FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/15732
+#EXTINF:-1,Smart Spor TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5209
+#EXTINF:-1,S Sport FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/15733
+#EXTINF:-1,Sports TV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5983
+#EXTINF:-1,NBA TV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/19668
+#EXTINF:-1,Eurosport 1 HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/15730
+#EXTINF:-1,Eurosport 2 HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/15731
+#EXTINF:-1,FightBox HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/19666
+#EXTINF:-1,FB TV HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/15728
+#EXTINF:-1,FB TV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5210
+#EXTINF:-1,BJK TV HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/15727
+#EXTINF:-1,GS TV HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/15729
+#EXTINF:-1,Power Türk HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14242
+#EXTINF:-1,KRAL TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5112
+#EXTINF:-1,KRAL POP TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5113
+#EXTINF:-1,Dream Türk HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5142
+#EXTINF:-1,Number One HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/12758
+#EXTINF:-1,Number One Turk HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14246
+#EXTINF:-1,MovieSmart Classic TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/12743
+#EXTINF:-1,MovieSmart Fest HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/19564
+#EXTINF:-1,MovieSmart Platin 2 HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/12748
+#EXTINF:-1,MovieSmart Platin TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/12749
+#EXTINF:-1,MovieSmart Premium 2 HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/12750
+#EXTINF:-1,MovieSmart Premium HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/12753
+#EXTINF:-1,MovieSmart Türk HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/19566
+#EXTINF:-1,SALON 1 HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5118
+#EXTINF:-1,SALON 2 HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5119
+#EXTINF:-1,SALON 3 HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5120
+#EXTINF:-1,Semerkand TV HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5147
+#EXTINF:-1,Sinema 1001 HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/19561
+#EXTINF:-1,Sinema Aile HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/19562
+#EXTINF:-1,Sinema Aksiyon FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/19556
+#EXTINF:-1,Sinema Komedi FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/19563
+#EXTINF:-1,Sinema TV FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/19565
+#EXTINF:-1,Sinema TV Yerli HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/19567
+#EXTINF:-1,YESILCAM HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5132
+#EXTINF:-1,Power TV HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14245
+#EXTINF:-1,DiziSmart Premium HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/16829
+#EXTINF:-1,FX HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/18210
+#EXTINF:-1,24 TV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/19673
+#EXTINF:-1,A2 FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/16827
+#EXTINF:-1,Akilli TV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/22850
+#EXTINF:-1,Arti TV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/17296
+#EXTINF:-1,beIN MOVIES Action 2 HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/19559
+#EXTINF:-1,beIN MOVIES Premier 2 HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/19558
+#EXTINF:-1,Euro D TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/10011
+#EXTINF:-1,Halk TV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5162
+#EXTINF:-1,Kon TV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/17880
+#EXTINF:-1,KRT HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/26885
+#EXTINF:-1,Lâlegül TV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/16263
+#EXTINF:-1,MC EU TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/17304
+#EXTINF:-1,Rumeli TV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/19135
+#EXTINF:-1,Tele 1 TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/17361
+#EXTINF:-1,Teve 2 HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14228
+#EXTINF:-1,Teve 2 TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5146
+#EXTINF:-1,TGRT Haber TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/18206
+#EXTINF:-1,TV 24 FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/28200
+#EXTINF:-1,TV 360 FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5114
+#EXTINF:-1,Tvnet HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/14238
+#EXTINF:-1,Ulusal Kanal TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/5117
+#EXTINF:-1,Zarok TV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/30572
+#EXTINF:-1,FullTV Vizyon 1 HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/34786
+#EXTINF:-1,Akit TV HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37127
+#EXTINF:-1,TLC HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37128
+#EXTINF:-1,UçanKus TV HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37129
+#EXTINF:-1,A News HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37369
+#EXTINF:-1,A Para HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37370
+#EXTINF:-1,Anadolu Dernek TV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37371
+#EXTINF:-1,Beykent TV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37372
+#EXTINF:-1,Cem TV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37373
+#EXTINF:-1,Dream TV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37374
+#EXTINF:-1,DRT Denizli TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37375
+#EXTINF:-1,Ekotürk TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37376
+#EXTINF:-1,EuroStar TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37377
+#EXTINF:-1,Kanal 33 TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37378
+#EXTINF:-1,Kanal Avrupa TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37379
+#EXTINF:-1,KANAL B TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37380
+#EXTINF:-1,On 4 TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37381
+#EXTINF:-1,Park TV TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37382
+#EXTINF:-1,TAY TV FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37383
+#EXTINF:-1,Tarim Türk TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37384
+#EXTINF:-1,TGRT Belgesel TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37385
+#EXTINF:-1,TGRT EU TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37386
+#EXTINF:-1,TV 4 FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37393
+#EXTINF:-1,TV 5 TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/37394
+#EXTINF:-1,S Sport 2 HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/71022
+#EXTINF:-1,Boomerang HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/73869
+#EXTINF:-1,DiziSmart Max FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/73870
+#EXTINF:-1,Fast & FunBox HD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/73871
+#EXTINF:-1,Habitat FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/73872
+#EXTINF:-1,Outdoor Channel FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/73873
+#EXTINF:-1,Sinema 1002 FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/73874
+#EXTINF:-1,Sinema 2 FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/73875
+#EXTINF:-1,Sinema Aksiyon 2 FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/73876
+#EXTINF:-1,Sinema Aile 2 FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/73877
+#EXTINF:-1,Sinema Komedi 2 FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/73878
+#EXTINF:-1,Tivibu FHD TR
+http://cloudcdn.tk:80/Ql8lJVe3453/9maNZ5044/73879
+#EXTINF:-1,▬ United
