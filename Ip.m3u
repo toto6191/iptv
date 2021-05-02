@@ -1,107 +1,144 @@
-#EXTM3U #ULUSAL, SD, SPOR, AZERİ, VOD, MOBESE, ALMAN, RADYO, 15942 KANALLAR İÇERİR | WWW.OZBECERIKSIZLER.NET | YILMAZTV#
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",|----------(ULUSAL HD/SD  Dahili Decorder ayarlayın) KANALLAR----------| WWW.OZBECERIKSIZLER.NET | YILMAZTV
-https://www.yilmaztv.com/yilmaztvspot.mp4?sd
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt1.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TRT 1 | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=trt1&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/atv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",ATV | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=atv-canli-hd-yayin&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/kanal-d.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Kanal D | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=kanal-d&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/beyaz-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Beyaz Tv | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=beyaz-tv&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/star-tv-canli-96.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Star Tv | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=star-tv-canli-96&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/show-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Show Tv | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=show-tv-hd-izle&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/show-turk.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Show Türk | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=show-turk-izle-3&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/kanal-7.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Kanal 7 | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=kanal-7-canli-turkiye&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/tv-360.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Tv 360 | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=tv-360&stream=1&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/tv8.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Tv8  | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=tv-8&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/fox.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Fox Tv | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=fox-canli-izle&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/a2-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",A2 Tv | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=a2-tv-1&stream=1&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/teve2.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Teve2 | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=teve2&stream=1&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/tv8-5.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Tv8,5 | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=tv85-turkiye-1&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/tlc-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TLC Tv | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=tlc-tv&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/d-max.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",D Max | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=d-max&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/tv8-int.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Tv8 İnt | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=tv8-int-canli&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/cem-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Cem Tv | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=cem-tv&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/milli-piyango-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Milli Piyango TV | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=milli-piyango-tv&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/tgrt-eu.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TGRT EU | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=tgrt-eu&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/euro-star.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Euro Star | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=euro-star&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/atv-avrupa.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",ATV Avrupa | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=atv-avrupa-12&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt-kurdi.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TRT Kürdi | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=trt-kurdi&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/kanal-b.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Kanal B | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=kanal-b&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt-turk.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TRT Türk | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=trt-turk&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt-avaz.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TRT Avaz | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=trt-avaz&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/ucankus-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Uçankuş Tv | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=ucankus-tv&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/show-max.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Show Max | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=show-max-izle-3&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/tvem.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TvEM | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=tvem&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/dugun-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Düğün Tv | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=dugun-tv&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt-2.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TRT 2 | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=trt-2&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/tvo-izle.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TVO | Ulusal
-https://www.yilmaztv.com/oz/oz.php?channel=tvo-izle&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/a-haber.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",A Haber | Haber
-https://www.yilmaztv.com/oz/oz.php?channel=a-haber-izle-13&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/haberturk-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Habertürk Tv | Haber
-https://www.yilmaztv.com/oz/oz.php?channel=haberturk-tv-hd&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/cnn-turk.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",CNN Türk | Haber
-https://www.yilmaztv.com/oz/oz.php?channel=cnn-turk-canli-yayin&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt-haber.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TRT Haber | 
+#EXTINF:-1,1beIN TURKEY HD 1
+http://188.40.186.158:8484/starspor.ts
+#EXTINF:-1,2beINSPORTS HD 1
+http://188.40.186.158:8484/starspor.ts
+#EXTINF:-1,beINSPORTS HD 1+
+http://188.40.186.158:8484/starspor.ts
+#EXTINF:-1,beINSPORTS HD 2+
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Turkish/c430c4310a858ff.m3u8
+#EXTINF:-1,SINEMA TV 1 HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/b0b0f62a5120a1e.m3u8
+#EXTINF:-1,SINEMA TV 2 HD
+https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
+#EXTINF:-1,SINEMA TV 3 HD
+https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
+#EXTINF:-1,SINEMA TV 4 HD
+https://cdn.yayin.com.tr/aktiftv/aktiftv/chunklist_w531772223.m3u8
+#EXTINF:-1,SINEMA YESILCAM TV 1 HD
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+#EXTINF:-1,SINEMA TURK TV 1 HD
+https://5be5d840359c6.streamlock.net/kanal19tv/kanal19tv/playlist.m3u8
+#EXTINF:-1,SINEMA TURK TV 2 HD
+http://ch.canlitvlive.io/anadolu-tv/live.m3u8
+#EXTINF:-1,SINEMA CINE5 TV HD
+https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/ed1f49fc2ecdc5e.m3u8
+#EXTINF:-1,ATV HD 
+http://str01.canlitvlive.io:25461/tv/tv/319
+#EXTINF:-1,SHOW TV HD 
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,STAR TV HD 
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,KANAL D HD 
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,FOX TV HD 
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,TRT 1 HD 
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,KANAL 7 HD 
+https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,TV 8 HD 
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,TV 8.5 HD 
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,TR24TV HD 
+https://canli.ensonhaber.com/tr/24tv/index.m3u8
+#EXTINF:-1,A HABER HD 
+http://str01.canlitvlive.io:25461/tv/tv/213
+#EXTINF:-1,EGE TV HD 
+https://waw2.artiyerelmedya.net/egetv/bant1/chunks.m3u8
+#EXTINF:-1,VATAN TV
+http://ch.canlitvlive.io/vatantv/live.m3u8
+#EXTINF:-1,YABAN TV HD 
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w745413644.m3u8
+#EXTINF:-1,ULKE TV HD 
+https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,TV100 HD 
+http://str01.canlitvlive.io:25461/tv/tv/275
+#EXTINF:-1,TV NET HD 
+http://ch.canlitvlive.io/tvnet/live.m3u8
+#EXTINF:-1,360 TV HD 
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
+#EXTINF:-1,CNN TURK HD 
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,HABER TURK HD 
+https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,HABER GLOBAL HD 
+https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,NTV HD 
+https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,TRT HABER HD 
+https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,TRT TURK HD 
+https://tv-trtturk.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT COCUK HD 
+https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,TRT BELGESEL HD 
+https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,TGRT BELGESEL 
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/chunklist.m3u8
+#EXTINF:-1,VUSLAT TV HD 
+https://waw2.artiyerelmedya.net/vuslattv/bant1/chunks.m3u8
+#EXTINF:-1,EKOTURK HD 
+https://mn-nl.mncdn.com/blutv_ekoturk/smil:ekoturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,A SPOR HD 
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,BEYAZ TV HD 
+https://canli.ensonhaber.com/tr/beyaztv/index.m3u8
+#EXTINF:-1,TGRT HABER HD 
+https://mn-nl.mncdn.com/blutv_tgrthaber/smil:tgrthaber_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,A PARA HD
+https://mn-nl.mncdn.com/blutv_apara/smil:apara_sd.smil/chunklist_b1788000.m3u8
+#EXTINF:-1,AKIT TV HD 
+http://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:-1,HALK TV HD 
+https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,HABER 61 TV 
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/chunklist.m3u8
+#EXTINF:-1,A2 HD 
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,DMAX HD 
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.sltur.m3u8
+#EXTINF:-1,UCANKUS TV 
+https://mn-nl.mncdn.com/blutv_ucankus/ucankus_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,KANAL B HD 
+https://mn-nl.mncdn.com/blutv_kanalb/smil:kanalb_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,S SPORT HD 1
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Turkish/a89ef8d72b51315.m3u8
+#EXTINF:-1,TRT SPOR HD
+https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_sd.smil/playlist.m3u8
+#EXTINF:-1,TRT SPOR 2 HD
+https://tv-trtspor2.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TAY TV HD
+https://mn-nl.mncdn.com/blutv_taytv/smil:taytv_sd.smil/playlist.m3u8
+#EXTINF:-1,GS TV HD
+http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1,IDMAN TV HD
+http://85.132.53.55/azerbaijan/idmanhd/playlist.m3u8
+#EXTINF:-1,CBC SPORT HD
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
+#EXTINF:-1,DIYANET TV HD 
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1,MANISA TV 
+http://yayin.netradyom.com:1935/live/manisatv/playist.m3u8
+#EXTINF:-1,MAVIKARADENIZ 
+http://yerelmedya.tv:1935/mavikaradeniz/bant1/chunklist_w373433044.m3u8
+#EXTINF:-1,NR1 HD 
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunks.m3u8
+#EXTINF:-1,NR1 TURK HD 
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunks.m3u8
+#EXTINF:-1,MILYON TV 
+https://live38.netmedya.net/hls/milyontv.m3u8
+#EXTINF:-1,TRT MUZIK HD 
+https://mn-nl.mncdn.com/blutv_trtmuzik/smil:trtmuzik_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,DREAM TURK HD 
+https://mn-nl.mncdn.com/blutv_dreamturk/smil:dreamturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,POWER TV HD 
+https://mn-nl.mncdn.com/blutv_power/smil:power_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,POWER TURK HD
+https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,KRAL POP HD
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1,KRAL TV HD
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
