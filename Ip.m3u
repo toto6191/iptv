@@ -2,16 +2,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",|----------(ULUSAL HD/SD  Dahili Decorder ayarlayın) KANALLAR----------| WWW.OZBECERIKSIZLER.NET | YILMAZTV
 https://www.yilmaztv.com/yilmaztvspot.mp4?sd
-
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt1.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TRT 1 | Ulusal
 https://www.yilmaztv.com/oz/oz.php?channel=trt1&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/atv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",ATV | Ulusal
 https://www.yilmaztv.com/oz/oz.php?channel=atv-canli-hd-yayin&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/kanal-d.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Kanal D | Ulusal
 https://www.yilmaztv.com/oz/oz.php?channel=kanal-d&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
-
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/beyaz-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Beyaz Tv | Ulusal
 https://www.yilmaztv.com/oz/oz.php?channel=beyaz-tv&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
 
