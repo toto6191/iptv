@@ -876,3 +876,813 @@ http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/6779
 #EXTINF:-1 tvg-id="" tvg-name="[TR]ŞANLIURFA Güneydoğu TV" tvg-logo="" group-title="Turkish",[TR]ŞANLIURFA Güneydoğu TV
 http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15008
 #EXTINF:-1 tvg-id="400035" tvg-name="[UKR]  112 NEWS" tvg-logo="" group-title="Russia",[UKR]  112 NEWS
+//live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/9587
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="[FR] 6TER FHD" tvg-logo="http://fauconteam.com/6ter.png" group-title="France FHD",[FR] 6TER FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/721
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="[FR] 6TER HD" tvg-logo="http://fauconteam.com/logo/6ter.png" group-title="France HD",[FR] 6TER HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2355
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="[FR] 6ter SD" tvg-logo="http://fauconteam.com/logo/6ter.png" group-title="France SD",[FR] 6ter SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/600
+#EXTINF:-1 tvg-id="13RUE.fr" tvg-name="[FR] 13 EME RUE FHD" tvg-logo="http://fauconteam.com/13emeruehd.png" group-title="France FHD",[FR] 13 EME RUE FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/720
+#EXTINF:-1 tvg-id="13RUE.fr" tvg-name="[FR] 13 EME RUE HD" tvg-logo="http://fauconteam.com/logo/13emeruehd.png" group-title="France HD",[FR] 13 EME RUE HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2373
+#EXTINF:-1 tvg-id="13RUE.fr" tvg-name="[FR] 13eme.Rue SD" tvg-logo="http://fauconteam.com/logo/13emerue.png" group-title="France SD",[FR] 13eme.Rue SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/606
+#EXTINF:-1 tvg-id="A+.fr" tvg-name="[FR] A+" tvg-logo="s:1:/images/10266627c22206a05a9bd818c5f751b2.png" group-title="France HD",[FR] A+
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15886
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="[FR] AB 1 FHD" tvg-logo="http://fauconteam.com/ab1.png" group-title="France FHD",[FR] AB 1 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/722
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="[FR] AB1 HD" tvg-logo="s:1:/images/68b6a776378decbb4a79cda89087c4ce.png" group-title="France HD",[FR] AB1 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2374
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="[FR] AB1 SD" tvg-logo="http://fauconteam.com/logo/ab1.png" group-title="France SD",[FR] AB1 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/611
+#EXTINF:-1 tvg-id="" tvg-name="[FR] AB3 FHD" tvg-logo="http://fauconteam.com/ab3.png" group-title="France FHD",[FR] AB3 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/815
+#EXTINF:-1 tvg-id="" tvg-name="[FR] AB3 HD" tvg-logo="http://fauconteam.com/logo/ab3.png" group-title="France HD",[FR] AB3 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2375
+#EXTINF:-1 tvg-id="" tvg-name="[FR] AB3 SD" tvg-logo="http://fauconteam.com/logo/ab3.png" group-title="France SD",[FR] AB3 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/610
+#EXTINF:-1 tvg-id="" tvg-name="[FR] AB MOTEUR FHD" tvg-logo="http://fauconteam.com/abmoteurs.png" group-title="France FHD",[FR] AB MOTEUR FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/807
+#EXTINF:-1 tvg-id="" tvg-name="[FR] AB Moteurs SD" tvg-logo="http://fauconteam.com/logo/abmoteurs.png" group-title="France SD",[FR] AB Moteurs SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/697
+#EXTINF:-1 tvg-id="ABXplore.be" tvg-name="[FR] ABXPLORE HD" tvg-logo="s:1:/images/c5a2c0d9e8f100c60db698ec3fcef16a.jpg" group-title="France HD",[FR] ABXPLORE HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2418
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="[FR] ACTION FHD" tvg-logo="http://fauconteam.com/actionhd.png" group-title="France FHD",[FR] ACTION FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/723
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="[FR] ACTION HD" tvg-logo="http://fauconteam.com/logo/actionhd.png" group-title="France HD",[FR] ACTION HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2377
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="[FR] ACTION SD" tvg-logo="http://fauconteam.com/logo/action.png" group-title="France SD",[FR] ACTION SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/612
+#EXTINF:-1 tvg-id="" tvg-name="[FR] A LA CARTE 1 HD" tvg-logo="" group-title="France HD",[FR] A LA CARTE 1 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/808
+#EXTINF:-1 tvg-id="" tvg-name="[FR] A LA CARTE 2 HD" tvg-logo="" group-title="France HD",[FR] A LA CARTE 2 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/809
+#EXTINF:-1 tvg-id="" tvg-name="[FR] A LA CARTE 3 HD" tvg-logo="" group-title="France HD",[FR] A LA CARTE 3 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/810
+#EXTINF:-1 tvg-id="" tvg-name="[FR] A LA CARTE 4 HD" tvg-logo="" group-title="France HD",[FR] A LA CARTE 4 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/811
+#EXTINF:-1 tvg-id="" tvg-name="[FR] A LA CARTE 5 HD" tvg-logo="" group-title="France HD",[FR] A LA CARTE 5 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/812
+#EXTINF:-1 tvg-id="" tvg-name="[FR] A LA CARTE 6 HD" tvg-logo="" group-title="France HD",[FR] A LA CARTE 6 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/813
+#EXTINF:-1 tvg-id="" tvg-name="[FR] A LA CARTE 7 HD" tvg-logo="" group-title="France HD",[FR] A LA CARTE 7 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/814
+#EXTINF:-1 tvg-id="AlticeStudio.fr" tvg-name="[FR] Altice.Studio SD" tvg-logo="http://fauconteam.com/logo/alticestudio.png" group-title="France SD",[FR] Altice.Studio SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/630
+#EXTINF:-1 tvg-id="AlticeStudio.fr" tvg-name="[FR] ALTICE STUDIO HD" tvg-logo="http://fauconteam.com/logo/alticestudio.png" group-title="France HD",[FR] ALTICE STUDIO HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2376
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="[FR] ANIMAUX FHD" tvg-logo="http://fauconteam.com/animauxhd.png" group-title="France FHD",[FR] ANIMAUX FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/724
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="[FR] ANIMAUX HD" tvg-logo="http://fauconteam.com/logo/animauxhd.png" group-title="France HD",[FR] ANIMAUX HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2433
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="[FR] Animaux SD" tvg-logo="http://fauconteam.com/logo/animaux.png" group-title="France SD",[FR] Animaux SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/647
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="[FR] ARTE FHD" tvg-logo="http://fauconteam.com/artehd.png" group-title="France FHD",[FR] ARTE FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/725
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="[FR] ARTE HD" tvg-logo="http://fauconteam.com/logo/artehd.png" group-title="France HD",[FR] ARTE HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2340
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="[FR] ARTE SD" tvg-logo="http://fauconteam.com/logo/arte_2.png" group-title="France SD",[FR] ARTE SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/700
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="[FR] AUTO MOTO HD" tvg-logo="http://fauconteam.com/logo/automoto.png" group-title="France HD",[FR] AUTO MOTO HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2498
+#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name="[FR] BABY TV HD" tvg-logo="http://fauconteam.com/logo/BABY-TV-HD.png" group-title="France HD",[FR] BABY TV HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2398
+#EXTINF:-1 tvg-id="BBlackClassik.fr" tvg-name="[FR] BBlack.ClassiK SD" tvg-logo="" group-title="France SD",[FR] BBlack.ClassiK SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/714
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BBlack Afrika SD" tvg-logo="http://fauconteam.com/logo/BLACK-AFRICA.png" group-title="France SD",[FR] BBlack Afrika SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/712
+#EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="http://fauconteam.com/beinsports1hd.png" group-title="France FHD",[FR] BEIN SPORT 1 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/794
+#EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="[FR] Beinsport1 SD" tvg-logo="s:1:/images/47c575a215f19e74b607800702c8bcdc.png" group-title="France SD",[FR] Beinsport1 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/679
+#EXTINF:-1 tvg-id="beINSport2.fr" tvg-name="[FR] BEIN SPORT 2 FHD" tvg-logo="http://fauconteam.com/beinsports2hd.png" group-title="France FHD",[FR] BEIN SPORT 2 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/795
+#EXTINF:-1 tvg-id="beINSport3.fr" tvg-name="[FR] BEIN SPORT 3 FHD" tvg-logo="http://fauconteam.com/beinsports3hd.png" group-title="France FHD",[FR] BEIN SPORT 3 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/796
+#EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="[FR] BEIN SPORTS 1 HD" tvg-logo="http://fauconteam.com/logo/BEIN SPORTS_1_HD.png" group-title="France HD",[FR] BEIN SPORTS 1 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2480
+#EXTINF:-1 tvg-id="beINSport2.fr" tvg-name="[FR] BEIN SPORTS 2 HD" tvg-logo="http://fauconteam.com/logo/BEIN SPORTS_2_HD.png" group-title="France HD",[FR] BEIN SPORTS 2 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2481
+#EXTINF:-1 tvg-id="beINSport2.fr" tvg-name="[FR] Beinsports2 SD" tvg-logo="http://fauconteam.com/logo/beinsports2.png" group-title="France SD",[FR] Beinsports2 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/680
+#EXTINF:-1 tvg-id="beINSport3.fr" tvg-name="[FR] BEIN SPORTS 3 HD" tvg-logo="http://fauconteam.com/logo/BEIN SPORTS_3_HD.png" group-title="France HD",[FR] BEIN SPORTS 3 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2482
+#EXTINF:-1 tvg-id="beINSport3.fr" tvg-name="[FR] Beinsports3 SD" tvg-logo="http://fauconteam.com/logo/beinsports3.png" group-title="France SD",[FR] Beinsports3 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/681
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Beinsports4 SD" tvg-logo="http://fauconteam.com/logo/beinsports4.png" group-title="France SD",[FR] Beinsports4 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/682
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Beinsports5 SD" tvg-logo="http://fauconteam.com/logo/beinsports5.png" group-title="France SD",[FR] Beinsports5 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/683
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Beinsports6 SD" tvg-logo="http://fauconteam.com/logo/beinsports6.png" group-title="France SD",[FR] Beinsports6 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/684
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Beinsports7 SD" tvg-logo="http://fauconteam.com/logo/beinsports7.png" group-title="France SD",[FR] Beinsports7 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/685
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Beinsports8 SD" tvg-logo="http://fauconteam.com/logo/beinsports8.png" group-title="France SD",[FR] Beinsports8 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/686
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Bein Sports9 SD" tvg-logo="http://fauconteam.com/logo/beinsportmax9.png" group-title="France SD",[FR] Bein Sports9 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/687
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Bein Sports10 SD" tvg-logo="http://fauconteam.com/logo/beinsportmax10.png" group-title="France SD",[FR] Bein Sports10 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/688
+#EXTINF:-1 tvg-id="BeInSportMax4.fr" tvg-name="[FR] BEIN SPORTS MAX 4 SD" tvg-logo="http://fauconteam.com/logo/beinsportsmax4.png" group-title="France SD",[FR] BEIN SPORTS MAX 4 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2483
+#EXTINF:-1 tvg-id="BeInSportMax5.fr" tvg-name="[FR] BEIN SPORTS MAX 5 SD" tvg-logo="http://fauconteam.com/logo/beinsportsmax5.png" group-title="France SD",[FR] BEIN SPORTS MAX 5 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2484
+#EXTINF:-1 tvg-id="BeInSportMax6.fr" tvg-name="[FR] BEIN SPORTS MAX 6 SD" tvg-logo="http://fauconteam.com/logo/beinsportsmax6.png" group-title="France SD",[FR] BEIN SPORTS MAX 6 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2485
+#EXTINF:-1 tvg-id="BeInSportMax7.fr" tvg-name="[FR] BEIN SPORTS MAX 7 SD" tvg-logo="http://fauconteam.com/logo/beinsportsmax7.png" group-title="France SD",[FR] BEIN SPORTS MAX 7 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2486
+#EXTINF:-1 tvg-id="BeInSportMax8.fr" tvg-name="[FR] BEIN SPORTS MAX 8 SD" tvg-logo="http://fauconteam.com/logo/beinsportsmax8.png" group-title="France SD",[FR] BEIN SPORTS MAX 8 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2487
+#EXTINF:-1 tvg-id="BeInSportMax9.fr" tvg-name="[FR] BEIN SPORTS MAX 9 SD" tvg-logo="http://fauconteam.com/logo/beinsportsmax9.png" group-title="France SD",[FR] BEIN SPORTS MAX 9 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2488
+#EXTINF:-1 tvg-id="BeInSportMax10.fr" tvg-name="[FR] BEIN SPORTS MAX 10 SD" tvg-logo="http://fauconteam.com/logo/beinsportsmax10.png" group-title="France SD",[FR] BEIN SPORTS MAX 10 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2489
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="[FR] BET HD" tvg-logo="http://fauconteam.com/logo/bethdfrance.png" group-title="France HD",[FR] BET HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2384
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BFM PARIS HD" tvg-logo="http://fauconteam.com/logo/bfmparis.png" group-title="France HD",[FR] BFM PARIS HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2396
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="[FR] BFM TV HD" tvg-logo="http://fauconteam.com/logo/BFM-TV.png" group-title="France HD",[FR] BFM TV HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2349
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="[FR] BFMTV SD" tvg-logo="http://fauconteam.com/logo/BFM-TV.png" group-title="France SD",[FR] BFMTV SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/699
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="[FR] Boing SD" tvg-logo="http://fauconteam.com/logo/boing.png" group-title="France SD",[FR] Boing SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/670
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="[FR] BOOMERANG FHD" tvg-logo="http://fauconteam.com/boomeranghd.png" group-title="France FHD",[FR] BOOMERANG FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/726
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="[FR] BOOMERANG HD" tvg-logo="http://fauconteam.com/logo/boomeranghd.png" group-title="France HD",[FR] BOOMERANG HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2407
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="[FR] Boomerang SD" tvg-logo="http://fauconteam.com/logo/boomerang.png" group-title="France SD",[FR] Boomerang SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/663
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="[FR] Boomerang SD" tvg-logo="http://fauconteam.com/logo/boomerang.png" group-title="France SD",[FR] Boomerang SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/662
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Box Office1" tvg-logo="" group-title="France HD",[FR]Box Office1
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15841
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Box Office2" tvg-logo="" group-title="France HD",[FR]Box Office2
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15842
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Box Office3" tvg-logo="" group-title="France HD",[FR]Box Office3
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15843
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Box Office4" tvg-logo="" group-title="France HD",[FR]Box Office4
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15844
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Box Office5" tvg-logo="" group-title="France HD",[FR]Box Office5
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15845
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Box Office6" tvg-logo="" group-title="France HD",[FR]Box Office6
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15846
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Box Office7" tvg-logo="" group-title="France HD",[FR]Box Office7
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15847
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Box Office8" tvg-logo="" group-title="France HD",[FR]Box Office8
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15848
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Box Office9" tvg-logo="" group-title="France HD",[FR]Box Office9
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15849
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Box Office10" tvg-logo="" group-title="France HD",[FR]Box Office10
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15850
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BRAVA HD" tvg-logo="http://fauconteam.com/logo/bravahd.png" group-title="France HD",[FR] BRAVA HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2450
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="[FR] C8 FHD" tvg-logo="http://fauconteam.com/c8.png" group-title="France FHD",[FR] C8 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/727
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="[FR] C8 HD" tvg-logo="http://fauconteam.com/logo/c8.png" group-title="France HD",[FR] C8 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2343
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="[FR] C8 SD" tvg-logo="http://fauconteam.com/logo/c8.png" group-title="France SD",[FR] C8 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/597
+#EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="[FR] CANAL  + SPORT FHD" tvg-logo="http://fauconteam.com/canalplussporthd.png" group-title="France FHD",[FR] CANAL  + SPORT FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/733
+#EXTINF:-1 tvg-id="CANALplusCINEMA.fr" tvg-name="[FR] Canal.Cinema SD" tvg-logo="http://fauconteam.com/logo/canalpluscinema.png" group-title="France SD",[FR] Canal.Cinema SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/615
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="[FR] Canal.Series SD" tvg-logo="http://fauconteam.com/logo/canalplusseries.png" group-title="France SD",[FR] Canal.Series SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/614
+#EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="[FR] Canal.Sport SD" tvg-logo="http://fauconteam.com/logo/canalplussport.png" group-title="France SD",[FR] Canal.Sport SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/617
+#EXTINF:-1 tvg-id="CANALplusCINEMA.fr" tvg-name="[FR] CANAL  CINEMA FHD" tvg-logo="http://fauconteam.com/canalpluscinema.png" group-title="France FHD",[FR] CANAL  CINEMA FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/728
+#EXTINF:-1 tvg-id="CANALplusCINEMA.fr" tvg-name="[FR] CANAL CINEMA HD" tvg-logo="http://fauconteam.com/logo/canalpluscinema.png" group-title="France HD",[FR] CANAL CINEMA HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2359
+#EXTINF:-1 tvg-id="CANALplusDECALE.fr" tvg-name="[FR] CANAL  DECALE FHD" tvg-logo="http://fauconteam.com/canalplusdecale.png" group-title="France FHD",[FR] CANAL  DECALE FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/729
+#EXTINF:-1 tvg-id="CANALplusDECALE.fr" tvg-name="[FR] CANAL DECALE HD" tvg-logo="http://fauconteam.com/logo/canalplusdecale.png" group-title="France HD",[FR] CANAL DECALE HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2360
+#EXTINF:-1 tvg-id="CANALplusFamily.fr" tvg-name="[FR] CANAL  FAMILY FHD" tvg-logo="http://fauconteam.com/canalplusfamilyhd.png" group-title="France FHD",[FR] CANAL  FAMILY FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/730
+#EXTINF:-1 tvg-id="CANALplusFamily.fr" tvg-name="[FR] CANAL FAMILY HD" tvg-logo="http://fauconteam.com/logo/canalplusfamilyhd.png" group-title="France HD",[FR] CANAL FAMILY HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2361
+#EXTINF:-1 tvg-id="CANALplusFamily.fr" tvg-name="[FR] Canal Family SD" tvg-logo="http://fauconteam.com/logo/canalplusfamily.png" group-title="France SD",[FR] Canal Family SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/616
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CANAL  FHD" tvg-logo="http://fauconteam.com/canalplushd.png" group-title="France FHD",[FR] CANAL  FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/731
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="[FR] CANAL  HD" tvg-logo="http://fauconteam.com/logo/canalplushd-vephauucha.png" group-title="France HD",[FR] CANAL  HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2339
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="[FR] CANAL J FHD" tvg-logo="http://fauconteam.com/canaljhd.png" group-title="France FHD",[FR] CANAL J FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/734
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="[FR] CANAL J HD" tvg-logo="http://fauconteam.com/logo/canaljhd.png" group-title="France HD",[FR] CANAL J HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2412
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="[FR] Canal J SD" tvg-logo="http://fauconteam.com/logo/canalj.png" group-title="France SD",[FR] Canal J SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/664
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 1" tvg-logo="" group-title="France HD",[FR]Canalplay 1
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15851
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 2" tvg-logo="" group-title="France HD",[FR]Canalplay 2
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15852
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 3" tvg-logo="" group-title="France HD",[FR]Canalplay 3
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15853
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 4" tvg-logo="" group-title="France HD",[FR]Canalplay 4
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15854
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 5" tvg-logo="" group-title="France HD",[FR]Canalplay 5
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15855
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 6" tvg-logo="" group-title="France HD",[FR]Canalplay 6
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15856
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 7" tvg-logo="" group-title="France HD",[FR]Canalplay 7
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15857
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 8" tvg-logo="" group-title="France HD",[FR]Canalplay 8
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15858
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 9" tvg-logo="" group-title="France HD",[FR]Canalplay 9
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15859
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 10" tvg-logo="" group-title="France HD",[FR]Canalplay 10
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15860
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="[FR] CANAL PLUS FHD" tvg-logo="http://fauconteam.com/canalplushd.png" group-title="France FHD",[FR] CANAL PLUS FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/735
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="[FR] CANAL SD" tvg-logo="http://fauconteam.com/logo/canalplus.png" group-title="France SD",[FR] CANAL SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/613
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="[FR] CANAL   SERIE FHD" tvg-logo="http://fauconteam.com/canalplusseries.png" group-title="France FHD",[FR] CANAL   SERIE FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/732
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="[FR] CANAL SERIES HD" tvg-logo="http://fauconteam.com/logo/canalplusseries.png" group-title="France HD",[FR] CANAL SERIES HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2362
+#EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="[FR] CANAL  SPORT HD" tvg-logo="http://fauconteam.com/logo/canalplussporthd.png" group-title="France HD",[FR] CANAL  SPORT HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2460
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="[FR] Cartoon.Network SD" tvg-logo="http://fauconteam.com/logo/cartoonnetwork.png" group-title="France SD",[FR] Cartoon.Network SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/652
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="[FR] CARTOON NETWORK FHD" tvg-logo="http://fauconteam.com/cartoonnetworkhd.png" group-title="France FHD",[FR] CARTOON NETWORK FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/736
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="[FR] CARTOON NETWORK HD" tvg-logo="http://fauconteam.com/logo/cartoonnethd.png" group-title="France HD",[FR] CARTOON NETWORK HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2416
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="[FR] Chasse.et.PÃªche SD" tvg-logo="http://fauconteam.com/logo/chasseetpeche.png" group-title="France SD",[FR] Chasse.et.PÃªche SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/648
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="[FR] CHASSE ET PECHE FHD" tvg-logo="http://fauconteam.com/chasseetpeche.png" group-title="France FHD",[FR] CHASSE ET PECHE FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/816
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="[FR] CHASSE ET PECHE HD" tvg-logo="http://fauconteam.com/logo/chasseandpeche.png" group-title="France HD",[FR] CHASSE ET PECHE HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2432
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="[FR] CHERIE25 FHD" tvg-logo="http://fauconteam.com/cherie25.png" group-title="France FHD",[FR] CHERIE25 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/737
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="[FR] CHERIE 25 HD" tvg-logo="http://fauconteam.com/logo/cherie25.png" group-title="France HD",[FR] CHERIE 25 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2358
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="[FR] Cherie25 SD" tvg-logo="http://fauconteam.com/logo/cherie25.png" group-title="France SD",[FR] Cherie25 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/596
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Cina.Famiz SD" tvg-logo="" group-title="France SD",[FR] Cina.Famiz SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/620
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Cina.Premier SD" tvg-logo="" group-title="France SD",[FR] Cina.Premier SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/618
+#EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-name="[FR] Cine + Classic SD" tvg-logo="http://fauconteam.com/logo/cineplusclassic.png" group-title="France SD",[FR] Cine + Classic SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/623
+#EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-name="[FR] CINE  CLASSIC FHD" tvg-logo="http://fauconteam.com/cinemaclassicshd.png" group-title="France FHD",[FR] CINE  CLASSIC FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/738
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  CLASSIC HD" tvg-logo="" group-title="France HD",[FR] CINE  CLASSIC HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2367
+#EXTINF:-1 tvg-id="CinecinemaClub.fr" tvg-name="[FR] CINE  CLUB FHD" tvg-logo="http://fauconteam.com/cinemahd.png" group-title="France FHD",[FR] CINE  CLUB FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/739
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE CLUB HD" tvg-logo="" group-title="France HD",[FR] CINE CLUB HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2368
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Cine Club SD" tvg-logo="" group-title="France SD",[FR] Cine Club SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/622
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  EMOTION FHD" tvg-logo="http://fauconteam.com/jojcinema.png" group-title="France FHD",[FR] CINE  EMOTION FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/740
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  EMOTION HD" tvg-logo="" group-title="France HD",[FR] CINE  EMOTION HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2363
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Cine Emotion SD" tvg-logo="" group-title="France SD",[FR] Cine Emotion SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/621
+#EXTINF:-1 tvg-id="CinecinemaFamiz.fr" tvg-name="[FR] CINE  FAMIZ FHD" tvg-logo="http://fauconteam.com/cinefx.png" group-title="France FHD",[FR] CINE  FAMIZ FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/741
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  FAMIZ HD" tvg-logo="" group-title="France HD",[FR] CINE  FAMIZ HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2364
+#EXTINF:-1 tvg-id="CinecinemaFrisson.fr" tvg-name="[FR] CINE  FRISSON FHD" tvg-logo="http://fauconteam.com/cinefx.png" group-title="France FHD",[FR] CINE  FRISSON FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/742
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  FRISSON HD" tvg-logo="" group-title="France HD",[FR] CINE  FRISSON HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2365
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Cine Frisson SD" tvg-logo="" group-title="France SD",[FR] Cine Frisson SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/619
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE FX FHD" tvg-logo="http://fauconteam.com/cinefxhd.png" group-title="France FHD",[FR] CINE FX FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/745
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  POLAR FHD" tvg-logo="http://fauconteam.com/cinepolar.png" group-title="France FHD",[FR] CINE  POLAR FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/743
+#EXTINF:-1 tvg-id="CinecinemaPremier.fr" tvg-name="[FR] CINE  PREMIERE FHD" tvg-logo="http://fauconteam.com/cinepluspremier.png" group-title="France FHD",[FR] CINE  PREMIERE FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/744
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  PREMIER HD" tvg-logo="" group-title="France HD",[FR] CINE  PREMIER HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2366
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="[FR] CNEWS HD" tvg-logo="http://fauconteam.com/logo/cnews.png" group-title="France HD",[FR] CNEWS HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2350
+#EXTINF:-1 tvg-id="Comedie.fr" tvg-name="[FR] COMEDIE FHD" tvg-logo="http://fauconteam.com/comedieplushd.png" group-title="France FHD",[FR] COMEDIE FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/746
+#EXTINF:-1 tvg-id="Comedie.fr" tvg-name="[FR] COMEDIE  HD" tvg-logo="http://fauconteam.com/logo/comedieplushd.png" group-title="France HD",[FR] COMEDIE  HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2378
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="[FR] COMEDY CENTRAL FHD" tvg-logo="http://fauconteam.com/comedycentralhd.png" group-title="France FHD",[FR] COMEDY CENTRAL FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/11921
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="[FR] CRIME DISTRICT FHD" tvg-logo="http://fauconteam.com/crimedistrict.png" group-title="France FHD",[FR] CRIME DISTRICT FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/11922
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="[FR] CRIME DISTRICT HD" tvg-logo="s:1:/images/1345b9d3c1ebcb73ca70a2f71e2bf076.png" group-title="France HD",[FR] CRIME DISTRICT HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2419
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="[FR] CSTAR FHD" tvg-logo="http://fauconteam.com/cstar.png" group-title="France FHD",[FR] CSTAR FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/11923
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="[FR] CSTAR HD" tvg-logo="http://fauconteam.com/logo/cstar.png" group-title="France HD",[FR] CSTAR HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2351
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="[FR] CStar SD" tvg-logo="http://fauconteam.com/logo/bcstar.png" group-title="France SD",[FR] CStar SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/601
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="[FR] Discovery.Investigation SD" tvg-logo="http://fauconteam.com/logo/DISCOVERY-INVESTIGATION.png" group-title="France SD",[FR] Discovery.Investigation SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/638
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="[FR] Discovery.Science SD" tvg-logo="http://fauconteam.com/logo/discoverysci.png" group-title="France SD",[FR] Discovery.Science SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/636
+#EXTINF:-1 tvg-id="Discovery.fr" tvg-name="[FR] DISCOVERY CHANNEL FHD" tvg-logo="http://fauconteam.com/discoverychannelhd.png" group-title="France FHD",[FR] DISCOVERY CHANNEL FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/11924
+#EXTINF:-1 tvg-id="DiscoveryFamily.fr" tvg-name="[FR] DISCOVERY FAMILY FHD" tvg-logo="http://fauconteam.com/discoveryfamily.png" group-title="France FHD",[FR] DISCOVERY FAMILY FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/11925
+#EXTINF:-1 tvg-id="DiscoveryFamily.fr" tvg-name="[FR] DISCOVERY FAMILY HD" tvg-logo="http://fauconteam.com/logo/discoveryfamily.png" group-title="France HD",[FR] DISCOVERY FAMILY HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2422
+#EXTINF:-1 tvg-id="DiscoveryFamily.fr" tvg-name="[FR] Discovery Family SD" tvg-logo="http://fauconteam.com/logo/discoveryfamily.png" group-title="France SD",[FR] Discovery Family SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/637
+#EXTINF:-1 tvg-id="Discovery.fr" tvg-name="[FR] DISCOVERY HD" tvg-logo="http://fauconteam.com/logo/discoveryhungaryhd.png" group-title="France HD",[FR] DISCOVERY HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2420
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="[FR] DISCOVERY INVESTIGATION FHD" tvg-logo="http://fauconteam.com/DISCOVERY-INV-HD.jpeg" group-title="France FHD",[FR] DISCOVERY INVESTIGATION FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/11926
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="[FR] DISCOVERY INVESTIGATION HD" tvg-logo="http://fauconteam.com/logo/DISCOVERY-INV-HD.jpeg" group-title="France HD",[FR] DISCOVERY INVESTIGATION HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2423
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="[FR] DISCOVERY SCIENCE FHD" tvg-logo="http://fauconteam.com/discoverysciencehd.png" group-title="France FHD",[FR] DISCOVERY SCIENCE FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/747
+#EXTINF:-1 tvg-id="Discovery.fr" tvg-name="[FR] Discovery SD" tvg-logo="http://fauconteam.com/logo/discovery.png" group-title="France SD",[FR] Discovery SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/635
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="[FR] Disney.Channel SD" tvg-logo="http://fauconteam.com/logo/disneychannel.png" group-title="France SD",[FR] Disney.Channel SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/653
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Disney.Cinema SD" tvg-logo="http://fauconteam.com/logo/disneycinema.png" group-title="France SD",[FR] Disney.Cinema SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/655
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="[FR] DISNEY CHANNEL FHD" tvg-logo="http://fauconteam.com/disneychannelhd.png" group-title="France FHD",[FR] DISNEY CHANNEL FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/817
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="[FR] DISNEY CHANNEL HD" tvg-logo="http://fauconteam.com/logo/disneychannelhd.png" group-title="France HD",[FR] DISNEY CHANNEL HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2401
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Disney Cinema FHD" tvg-logo="http://fauconteam.com/disneycinemahd.png" group-title="France FHD",[FR] Disney Cinema FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/748
+#EXTINF:-1 tvg-id="" tvg-name="[FR] DISNEY CINEMA HD" tvg-logo="http://fauconteam.com/logo/disneycinemahd.png" group-title="France HD",[FR] DISNEY CINEMA HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2402
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="[FR] DISNEY JUNIOR FHD" tvg-logo="http://fauconteam.com/disneyjuniorhd.png" group-title="France FHD",[FR] DISNEY JUNIOR FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/749
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="[FR] Disney Junior HD" tvg-logo="http://fauconteam.com/logo/disneyjuniorhd.png" group-title="France HD",[FR] Disney Junior HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15017
+#EXTINF:-1 tvg-id="DisneyXD.fr" tvg-name="[FR] DISNEY XD FHD" tvg-logo="http://fauconteam.com/disneyxdhd.png" group-title="France FHD",[FR] DISNEY XD FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/750
+#EXTINF:-1 tvg-id="DisneyXD.fr" tvg-name="[FR] DISNEY XD HD" tvg-logo="http://fauconteam.com/logo/disneyxdhd.png" group-title="France HD",[FR] DISNEY XD HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2403
+#EXTINF:-1 tvg-id="" tvg-name="[FR] E! ENTERTAINMENT FHD" tvg-logo="http://fauconteam.com/eentertainmenthd.png" group-title="France FHD",[FR] E! ENTERTAINMENT FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/11927
+#EXTINF:-1 tvg-id="Eentertainment.fr" tvg-name="[FR] E! HD" tvg-logo="http://fauconteam.com/logo/E!-.png" group-title="France HD",[FR] E! HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2391
+#EXTINF:-1 tvg-id="" tvg-name="[FR] E.ENTER SD" tvg-logo="http://fauconteam.com/logo/eentertainment.png" group-title="France SD",[FR] E.ENTER SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/705
+#EXTINF:-1 tvg-id="EquidiaLive.fr" tvg-name="[FR] EQUIDIA HD" tvg-logo="http://fauconteam.com/logo/equidialivehd.png" group-title="France HD",[FR] EQUIDIA HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2499
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Equidia Live SD" tvg-logo="http://fauconteam.com/logo/equidialive.png" group-title="France SD",[FR] Equidia Live SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/695
+#EXTINF:-1 tvg-id="EquipeTV.fr" tvg-name="[FR] Equipe21 SD" tvg-logo="" group-title="France SD",[FR] Equipe21 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/692
+#EXTINF:-1 tvg-id="EuronewsFR.nws" tvg-name="[FR] EURONEWS HD" tvg-logo="http://fauconteam.com/logo/euronewsfrenchsd.png" group-title="France HD",[FR] EURONEWS HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2394
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="[FR] EUROSPORT 1 FHD" tvg-logo="http://fauconteam.com/eurosport1hd.png" group-title="France FHD",[FR] EUROSPORT 1 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/804
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="[FR] EUROSPORT 1 HD" tvg-logo="http://fauconteam.com/logo/eurosport1hd.png" group-title="France HD",[FR] EUROSPORT 1 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2490
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="[FR] EUROSPORT 2 FHD" tvg-logo="http://fauconteam.com/eurosport2hd.png" group-title="France FHD",[FR] EUROSPORT 2 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/805
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="[FR] EUROSPORT 2 HD" tvg-logo="http://fauconteam.com/logo/eurosport2hd.png" group-title="France HD",[FR] EUROSPORT 2 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2491
+#EXTINF:-1 tvg-id="Foot24.fr" tvg-name="[FR] FOOT  24" tvg-logo="http://fauconteam.com/logo/footplus2424.png" group-title="France SD",[FR] FOOT  24
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2494
+#EXTINF:-1 tvg-id="Foot24.fr" tvg-name="[FR] FOOT 24 FHD" tvg-logo="http://fauconteam.com/FOOT-24-24.jpeg" group-title="France FHD",[FR] FOOT 24 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/751
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="[FR] FRANCE 2 FHD" tvg-logo="http://fauconteam.com/france2hd.png" group-title="France FHD",[FR] FRANCE 2 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/752
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="[FR] FRANCE 2 HD" tvg-logo="http://fauconteam.com/logo/france2hd.png" group-title="France HD",[FR] FRANCE 2 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2337
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="[FR] France2 SD" tvg-logo="http://fauconteam.com/logo/france2.png" group-title="France SD",[FR] France2 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/587
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="[FR] FRANCE 3 FHD" tvg-logo="http://fauconteam.com/france3hd.png" group-title="France FHD",[FR] FRANCE 3 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/754
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="[FR] FRANCE 3 HD" tvg-logo="http://fauconteam.com/logo/france3hd.png" group-title="France HD",[FR] FRANCE 3 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2338
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="[FR] France3 SD" tvg-logo="http://fauconteam.com/logo/france3.png" group-title="France SD",[FR] France3 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/588
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="[FR] FRANCE 4 FHD" tvg-logo="http://fauconteam.com/france4.png" group-title="France FHD",[FR] FRANCE 4 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/755
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="[FR] FRANCE 4 HD" tvg-logo="http://fauconteam.com/logo/france4.png" group-title="France HD",[FR] FRANCE 4 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2348
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="[FR] France4 SD" tvg-logo="http://fauconteam.com/logo/france4.png" group-title="France SD",[FR] France4 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/589
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="[FR] FRANCE 5 FHD" tvg-logo="http://fauconteam.com/france5.png" group-title="France FHD",[FR] FRANCE 5 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/756
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="[FR] FRANCE 5 HD" tvg-logo="http://fauconteam.com/logo/france5.png" group-title="France HD",[FR] FRANCE 5 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2342
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="[FR] France5 SD" tvg-logo="http://fauconteam.com/logo/france5.png" group-title="France SD",[FR] France5 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/590
+#EXTINF:-1 tvg-id="France24fr.fr" tvg-name="[FR] FRANCE 24 FHD" tvg-logo="http://fauconteam.com/france24hdinarabic.png" group-title="France FHD",[FR] FRANCE 24 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/753
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="[FR] FRANCE INFO FHD" tvg-logo="http://fauconteam.com/franceinfohd.png" group-title="France FHD",[FR] FRANCE INFO FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/757
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="[FR] FRANCE INFO SD" tvg-logo="s:1:/images/52d4f1c94eafff70b8eb0a3449369251.png" group-title="France SD",[FR] FRANCE INFO SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/703
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="[FR] FRANCE O FHD" tvg-logo="http://fauconteam.com/franceo.png" group-title="France FHD",[FR] FRANCE O FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/758
+#EXTINF:-1 tvg-id="" tvg-name="[FR] FRANCE O HD" tvg-logo="http://fauconteam.com/logo/franceo.png" group-title="France HD",[FR] FRANCE O HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2353
+#EXTINF:-1 tvg-id="" tvg-name="[FR] FranceO SD" tvg-logo="http://fauconteam.com/logo/franceo.png" group-title="France SD",[FR] FranceO SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/591
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Gameone1 SD" tvg-logo="s:1:/images/1f794e24c9fd4c4650bc24159f82a481.jpeg" group-title="France SD",[FR] Gameone1 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/666
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="[FR] GAME ONE FHD" tvg-logo="http://fauconteam.com/gameone.png" group-title="France FHD",[FR] GAME ONE FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/11928
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="[FR] GameOne SD" tvg-logo="http://fauconteam.com/logo/gameone.png" group-title="France SD",[FR] GameOne SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/665
+#EXTINF:-1 tvg-id="Golfplus.fr" tvg-name="[FR] GOLF+ FHD" tvg-logo="http://fauconteam.com/logo/golf.jpg" group-title="France FHD",[FR] GOLF+ FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/11929
+#EXTINF:-1 tvg-id="Golf.fr" tvg-name="[FR] GOLF CHANNEL HD" tvg-logo="http://fauconteam.com/logo/GOLF-CHANNEL.png" group-title="France HD",[FR] GOLF CHANNEL HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2496
+#EXTINF:-1 tvg-id="Golf.fr" tvg-name="[FR] Golf Channel SD" tvg-logo="http://fauconteam.com/logo/golf.jpg" group-title="France SD",[FR] Golf Channel SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/694
+#EXTINF:-1 tvg-id="Golfplus.fr" tvg-name="[FR] GOLF FHD" tvg-logo="http://fauconteam.com/golfplus.png" group-title="France FHD",[FR] GOLF FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/759
+#EXTINF:-1 tvg-id="Golf.fr" tvg-name="[FR] GOLF  HD" tvg-logo="http://fauconteam.com/logo/GOLF-TV.jpg" group-title="France HD",[FR] GOLF  HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2495
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="[FR] GULLI FHD" tvg-logo="http://fauconteam.com/gullihd.png" group-title="France FHD",[FR] GULLI FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/760
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="[FR] GULLI HD" tvg-logo="http://fauconteam.com/logo/gullihd.png" group-title="France HD",[FR] GULLI HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2352
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="[FR] Gulli SD" tvg-logo="http://fauconteam.com/logo/gulli.png" group-title="France SD",[FR] Gulli SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/668
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="[FR] HISTOIRE FHD" tvg-logo="http://fauconteam.com/histoire.png" group-title="France FHD",[FR] HISTOIRE FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/11930
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="[FR] HISTOIRE HD" tvg-logo="http://fauconteam.com/logo/histoire.png" group-title="France HD",[FR] HISTOIRE HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2429
+#EXTINF:-1 tvg-id="Infosport.fr" tvg-name="[FR] INFOSPORT  FHD" tvg-logo="http://fauconteam.com/INFOSPORT.png" group-title="France FHD",[FR] INFOSPORT  FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/761
+#EXTINF:-1 tvg-id="Infosport.fr" tvg-name="[FR] INFOSPORT  HD" tvg-logo="http://fauconteam.com/logo/INFOSPORT.png" group-title="France HD",[FR] INFOSPORT  HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2493
+#EXTINF:-1 tvg-id="JOne.fr" tvg-name="[FR] J.One SD" tvg-logo="http://fauconteam.com/logo/jone.png" group-title="France SD",[FR] J.One SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/667
+#EXTINF:-1 tvg-id="" tvg-name="[FR] LA DEUX HD" tvg-logo="http://fauconteam.com/logo/ladeuxhd.png" group-title="France HD",[FR] LA DEUX HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2505
+#EXTINF:-1 tvg-id="" tvg-name="[FR] LA TROIS HD" tvg-logo="http://fauconteam.com/logo/latroishd.png" group-title="France HD",[FR] LA TROIS HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2506
+#EXTINF:-1 tvg-id="" tvg-name="[FR] LA UNE HD" tvg-logo="http://fauconteam.com/logo/launehd.png" group-title="France HD",[FR] LA UNE HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2504
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="[FR] LCI FHD" tvg-logo="http://fauconteam.com/lcihd.png" group-title="France FHD",[FR] LCI FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/763
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="[FR] LCI HD" tvg-logo="http://fauconteam.com/logo/lcihd.png" group-title="France HD",[FR] LCI HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/702
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="[FR] LCP SD" tvg-logo="http://fauconteam.com/logo/lcp.png" group-title="France SD",[FR] LCP SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/704
+#EXTINF:-1 tvg-id="" tvg-name="[FR] L EQUIPE21 FHD" tvg-logo="" group-title="France FHD",[FR] L EQUIPE21 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/762
+#EXTINF:-1 tvg-id="" tvg-name="[FR] LUXE TV HD" tvg-logo="http://fauconteam.com/logo/luxetv.png" group-title="France SD",[FR] LUXE TV HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2438
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="[FR] M6 FHD" tvg-logo="http://fauconteam.com/m6hd.png" group-title="France FHD",[FR] M6 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/764
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="[FR] M6 HD" tvg-logo="http://fauconteam.com/logo/m6hd.png" group-title="France HD",[FR] M6 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2341
+#EXTINF:-1 tvg-id="M6MusicHits.fr" tvg-name="[FR] M6 MUSIC FHD" tvg-logo="http://fauconteam.com/m6musichd.png" group-title="France FHD",[FR] M6 MUSIC FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/818
+#EXTINF:-1 tvg-id="M6MusicHits.fr" tvg-name="[FR] M6 MUSIC SD" tvg-logo="http://fauconteam.com/logo/m6music.png" group-title="France SD",[FR] M6 MUSIC SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2445
+#EXTINF:-1 tvg-id="M6-FR" tvg-name="[FR] M6 SD" tvg-logo="http://fauconteam.com/logo/m6.png" group-title="France SD",[FR] M6 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/586
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="[FR] MANGAS FHD" tvg-logo="http://fauconteam.com/mangas.png" group-title="France FHD",[FR] MANGAS FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/765
+#EXTINF:-1 tvg-id="Mangas-FR" tvg-name="[FR] MANGAS HD" tvg-logo="http://fauconteam.com/logo/mangas.png" group-title="France HD",[FR] MANGAS HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2415
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="[FR] Mangas SD" tvg-logo="http://fauconteam.com/logo/mangas.png" group-title="France SD",[FR] Mangas SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/671
+#EXTINF:-1 tvg-id="MCMtop.fr" tvg-name="[FR] MCM.TOP SD" tvg-logo="http://fauconteam.com/logo/mcmtop.png" group-title="France SD",[FR] MCM.TOP SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/709
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="[FR] MCM FHD" tvg-logo="http://fauconteam.com/mcm.png" group-title="France FHD",[FR] MCM FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/766
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="[FR] MCM HD" tvg-logo="http://fauconteam.com/logo/mcmfrancehd.png" group-title="France HD",[FR] MCM HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2446
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="[FR] MCM SD" tvg-logo="s:1:/images/5b843ed5160086c2d34710c0ef6a1da6.png" group-title="France SD",[FR] MCM SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/708
+#EXTINF:-1 tvg-id="MCMtop.fr" tvg-name="[FR] MCM TOP FHD" tvg-logo="http://fauconteam.com/mcmtophd.png" group-title="France FHD",[FR] MCM TOP FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/767
+#EXTINF:-1 tvg-id="TeleMelody.fr" tvg-name="[FR] MELODY SD" tvg-logo="http://fauconteam.com/logo/melody.png" group-title="France SD",[FR] MELODY SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2447
+#EXTINF:-1 tvg-id="" tvg-name="[FR] MOTORSPORT TV FHD" tvg-logo="http://fauconteam.com/motorsporttv.png" group-title="France FHD",[FR] MOTORSPORT TV FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/806
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Motor Sport TV SD" tvg-logo="http://fauconteam.com/logo/motorsporttv.png" group-title="France SD",[FR] Motor Sport TV SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/696
+#EXTINF:-1 tvg-id="" tvg-name="[FR] MTV DANCE HD" tvg-logo="http://fauconteam.com/logo/mtvdance.png" group-title="France HD",[FR] MTV DANCE HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2442
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="[FR] MTV FHD" tvg-logo="http://fauconteam.com/mtvhd.png" group-title="France FHD",[FR] MTV FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/768
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="[FR] MTV FR HD" tvg-logo="http://fauconteam.com/logo/mtvhd.png" group-title="France HD",[FR] MTV FR HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2440
+#EXTINF:-1 tvg-id="" tvg-name="[FR] MTV HITS SD" tvg-logo="http://fauconteam.com/logo/mtvhits.png" group-title="France SD",[FR] MTV HITS SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2441
+#EXTINF:-1 tvg-id="" tvg-name="[FR] MTV ROCK SD" tvg-logo="http://fauconteam.com/logo/mtvrocks.png" group-title="France SD",[FR] MTV ROCK SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2443
+#EXTINF:-1 tvg-id="" tvg-name="[FR] MY COMEDY HD" tvg-logo="http://fauconteam.com/logo/MY-COMEDY.jpeg" group-title="France HD",[FR] MY COMEDY HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2379
+#EXTINF:-1 tvg-id="" tvg-name="[FR] MY CUISINE FHD" tvg-logo="http://fauconteam.com/logo/mycuisine.png" group-title="France FHD",[FR] MY CUISINE FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/11931
+#EXTINF:-1 tvg-id="" tvg-name="[FR] MY CUISINE HD" tvg-logo="http://fauconteam.com/logo/mycuisine.png" group-title="France HD",[FR] MY CUISINE HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2393
+#EXTINF:-1 tvg-id="NatGeoWildHD.fr" tvg-name="[FR] Nat.Geo.Wild SD" tvg-logo="http://fauconteam.com/logo/natgeowildeurope.png" group-title="France SD",[FR] Nat.Geo.Wild SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/634
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="[FR] Nat geo SD" tvg-logo="http://fauconteam.com/logo/natgeo.png" group-title="France SD",[FR] Nat geo SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/633
+#EXTINF:-1 tvg-id="NatGeoWildHD.fr" tvg-name="[FR] NAT GEO WILD HD" tvg-logo="http://fauconteam.com/logo/natgeowildhd.png" group-title="France HD",[FR] NAT GEO WILD HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2428
+#EXTINF:-1 tvg-id="" tvg-name="[FR] National Geographic FHD" tvg-logo="" group-title="France FHD",[FR] National Geographic FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/769
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="[FR] NATIONAL GEOGRAPHIC HD" tvg-logo="http://fauconteam.com/logo/natgeohdsf.png" group-title="France HD",[FR] NATIONAL GEOGRAPHIC HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2427
+#EXTINF:-1 tvg-id="NatGeoWildHD.fr" tvg-name="[FR] National Geographic WILD FHD" tvg-logo="http://fauconteam.com/nationalgeographicwild.png" group-title="France FHD",[FR] National Geographic WILD FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/770
+#EXTINF:-1 tvg-id="Nick4teens.fr" tvg-name="[FR] Nick4teens SD" tvg-logo="http://fauconteam.com/logo/nickelodeonteen.png" group-title="France SD",[FR] Nick4teens SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/660
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="[FR] Nickelodeon.Junior SD" tvg-logo="http://fauconteam.com/logo/nickelodeonjunior.png" group-title="France SD",[FR] Nickelodeon.Junior SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/661
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="[FR] NICKELODEON FHD" tvg-logo="http://fauconteam.com/nickelodeonhd.png" group-title="France FHD",[FR] NICKELODEON FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/771
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="[FR] NICKELODEON HD" tvg-logo="http://fauconteam.com/logo/nickelodeonhdfrance.png" group-title="France HD",[FR] NICKELODEON HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2409
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="[FR] NICKELODEON JR HD" tvg-logo="http://fauconteam.com/logo/NICK-JR-HD.png" group-title="France HD",[FR] NICKELODEON JR HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2410
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="[FR] NICKELODEON JUNIOR FHD" tvg-logo="http://fauconteam.com/nickelodeonjunior.png" group-title="France FHD",[FR] NICKELODEON JUNIOR FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/772
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="[FR] Nickelodeon SD" tvg-logo="http://fauconteam.com/logo/nickelodeon.png" group-title="France SD",[FR] Nickelodeon SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/658
+#EXTINF:-1 tvg-id="Nick4teens.fr" tvg-name="[FR] NICKELODEON TEEN HD" tvg-logo="http://fauconteam.com/logo/nickelodeon4teenhd.png" group-title="France HD",[FR] NICKELODEON TEEN HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2411
+#EXTINF:-1 tvg-id="Nollywood.fr" tvg-name="[FR] nollywood" tvg-logo="http://fauconteam.com/logo/nollywood.png" group-title="France HD",[FR] nollywood
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15885
+#EXTINF:-1 tvg-id="NovelasTV.fr" tvg-name="[FR] NOVELAS TV HD" tvg-logo="http://fauconteam.com/logo/novelastv.png" group-title="France HD",[FR] NOVELAS TV HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2383
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="[FR] NRJ 12 FHD" tvg-logo="http://fauconteam.com/nrj12hd.png" group-title="France FHD",[FR] NRJ 12 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/773
+#EXTINF:-1 tvg-id="" tvg-name="[FR] NRJ 12 HD" tvg-logo="http://fauconteam.com/logo/nrj12hd.png" group-title="France HD",[FR] NRJ 12 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2347
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="[FR] NRJ12 SD" tvg-logo="http://fauconteam.com/logo/nrj12.png" group-title="France SD",[FR] NRJ12 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/594
+#EXTINF:-1 tvg-id="NRJHitsBelgique,be" tvg-name="[FR] NRJ HITS HD" tvg-logo="http://fauconteam.com/logo/nrjhitstv.png" group-title="France HD",[FR] NRJ HITS HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2444
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="[FR] NRJ Hits SD" tvg-logo="http://fauconteam.com/logo/nrjhits.png" group-title="France SD",[FR] NRJ Hits SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/710
+#EXTINF:-1 tvg-id="OrangeCinechoc.fr" tvg-name="[FR] Ocs.Choc SD" tvg-logo="http://fauconteam.com/logo/ocschoc.png" group-title="France SD",[FR] Ocs.Choc SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/625
+#EXTINF:-1 tvg-id="OrangeCineHappy.fr" tvg-name="[FR] Ocs.City SD" tvg-logo="http://fauconteam.com/logo/ocscity.png" group-title="France SD",[FR] Ocs.City SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/626
+#EXTINF:-1 tvg-id="OrangeCineGeants.fr" tvg-name="[FR] Ocs.Geants SD" tvg-logo="http://fauconteam.com/logo/ocsgeants.png" group-title="France SD",[FR] Ocs.Geants SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/627
+#EXTINF:-1 tvg-id="OrangeCinemax.fr" tvg-name="[FR] Ocs.Max SD" tvg-logo="http://fauconteam.com/logo/ocsmax.png" group-title="France SD",[FR] Ocs.Max SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/624
+#EXTINF:-1 tvg-id="OrangeCinechoc.fr" tvg-name="[FR] OCS CHOC FHD" tvg-logo="http://fauconteam.com/ocschoc.png" group-title="France FHD",[FR] OCS CHOC FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/775
+#EXTINF:-1 tvg-id="OrangeCinechoc.fr" tvg-name="[FR] OCS CHOC HD" tvg-logo="http://fauconteam.com/logo/ocschoc.png" group-title="France HD",[FR] OCS CHOC HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2369
+#EXTINF:-1 tvg-id="OrangeCineHappy.fr" tvg-name="[FR] OCS CITY FHD" tvg-logo="http://fauconteam.com/ocscityhd.png" group-title="France FHD",[FR] OCS CITY FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/776
+#EXTINF:-1 tvg-id="OrangeCineHappy.fr" tvg-name="[FR] OCS CITY HD" tvg-logo="http://fauconteam.com/logo/ocscityhd.png" group-title="France HD",[FR] OCS CITY HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2370
+#EXTINF:-1 tvg-id="OrangeCineGeants.fr" tvg-name="[FR] OCS GEANTS FHD" tvg-logo="http://fauconteam.com/ocsgeants.png" group-title="France FHD",[FR] OCS GEANTS FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/777
+#EXTINF:-1 tvg-id="OrangeCineGeants.fr" tvg-name="[FR] OCS GEANTS HD" tvg-logo="http://fauconteam.com/logo/ocsgeant.png" group-title="France HD",[FR] OCS GEANTS HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2371
+#EXTINF:-1 tvg-id="OrangeCinemax.fr" tvg-name="[FR] OCS MAX FHD" tvg-logo="http://fauconteam.com/ocsmaxhd.png" group-title="France FHD",[FR] OCS MAX FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/778
+#EXTINF:-1 tvg-id="OrangeCinemax.fr" tvg-name="[FR] OCS MAX HD" tvg-logo="http://fauconteam.com/logo/ocsmaxhd.png" group-title="France HD",[FR] OCS MAX HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2372
+#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="[FR] OL TV FHD" tvg-logo="http://fauconteam.com/oltvhd.png" group-title="France FHD",[FR] OL TV FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2492
+#EXTINF:-1 tvg-id="OneTV.ch" tvg-name="[FR] ONE TV FHD" tvg-logo="http://fauconteam.com/TV-ONE-HD.png" group-title="France FHD",[FR] ONE TV FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/11932
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="[FR] Paramount.Channel SD" tvg-logo="http://fauconteam.com/logo/paramountchannel.png" group-title="France SD",[FR] Paramount.Channel SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/629
+#EXTINF:-1 tvg-id="ParamountChannelDecale.fr" tvg-name="[FR] PARAMOUNT CHANNEL DECALE HD" tvg-logo="http://fauconteam.com/logo/PARAMOUNT-DECALE.png" group-title="France HD",[FR] PARAMOUNT CHANNEL DECALE HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2381
+#EXTINF:-1 tvg-id="" tvg-name="[FR] PARAMOUNT CHANNEL FHD" tvg-logo="" group-title="France FHD",[FR] PARAMOUNT CHANNEL FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/11933
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="[FR] PARAMOUNT CHANNEL HD" tvg-logo="http://fauconteam.com/logo/paramountnetworkhd.png" group-title="France HD",[FR] PARAMOUNT CHANNEL HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2380
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="[FR] Paris.Premiere SD" tvg-logo="http://fauconteam.com/logo/parispremiere.png" group-title="France SD",[FR] Paris.Premiere SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/607
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="[FR] PARIS PREMIERE HD" tvg-logo="s:1:/images/413540ddc1dc08983fb74e3d2370e974.png" group-title="France HD",[FR] PARIS PREMIERE HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2387
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="[FR] PIWI FHD" tvg-logo="http://fauconteam.com/piwiplus.png" group-title="France FHD",[FR] PIWI FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/779
+#EXTINF:-1 tvg-id="" tvg-name="[FR] PIWI HD" tvg-logo="" group-title="France HD",[FR] PIWI HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2399
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Piwi SD" tvg-logo="" group-title="France SD",[FR] Piwi SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/669
+#EXTINF:-1 tvg-id="PLANETEnoLIMIT.fr" tvg-name="[FR] PLANET A&E FHD" tvg-logo="http://fauconteam.com/planeteplusaandehd.png" group-title="France FHD",[FR] PLANET A&E FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/782
+#EXTINF:-1 tvg-id="PLANETEJustice.fr" tvg-name="[FR] PLANET CI FHD" tvg-logo="http://fauconteam.com/planetepluscihd.png" group-title="France FHD",[FR] PLANET CI FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/780
+#EXTINF:-1 tvg-id="PLANETEnoLIMIT.fr" tvg-name="[FR] Planete.AE SD" tvg-logo="http://fauconteam.com/logo/planeteplusaventureexperience.png" group-title="France SD",[FR] Planete.AE SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/640
+#EXTINF:-1 tvg-id="PLANETE.fr" tvg-name="[FR] Planete.SD" tvg-logo="http://fauconteam.com/logo/planeteplus.png" group-title="France SD",[FR] Planete.SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/639
+#EXTINF:-1 tvg-id="PLANETEnoLIMIT.fr" tvg-name="[FR] PLANETE  A&E HD" tvg-logo="http://fauconteam.com/logo/planeteplusaandehd.png" group-title="France HD",[FR] PLANETE  A&E HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2426
+#EXTINF:-1 tvg-id="PLANETEJustice.fr" tvg-name="[FR] PLANETE  CI HD" tvg-logo="http://fauconteam.com/logo/planetepluscihd.png" group-title="France HD",[FR] PLANETE  CI HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2425
+#EXTINF:-1 tvg-id="PLANETE.fr" tvg-name="[FR] PLANETE FHD" tvg-logo="http://fauconteam.com/planeteplushd.png" group-title="France FHD",[FR] PLANETE FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/819
+#EXTINF:-1 tvg-id="Planète+-FR" tvg-name="[FR] PLANETE HD" tvg-logo="http://fauconteam.com/logo/planeteplushd.png" group-title="France HD",[FR] PLANETE HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2424
+#EXTINF:-1 tvg-id="" tvg-name="[FR] PLANET  FHD" tvg-logo="" group-title="France FHD",[FR] PLANET  FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/781
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="[FR] RFM TV FHD" tvg-logo="http://fauconteam.com/rfmtvhd.png" group-title="France FHD",[FR] RFM TV FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/783
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="[FR] RFM TV HD" tvg-logo="http://fauconteam.com/logo/rfmtvhd.png" group-title="France HD",[FR] RFM TV HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2448
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="[FR] RFM TV SD" tvg-logo="s:1:/images/af8c6e88b6af8ecae08d74f4c5278fec.png" group-title="France SD",[FR] RFM TV SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/13702
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="[FR] RMC.Decouverte SD" tvg-logo="http://fauconteam.com/logo/rmcdecouverte.png" group-title="France SD",[FR] RMC.Decouverte SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/643
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="[FR] Rmc.Story SD" tvg-logo="http://fauconteam.com/logo/rmcstory.png" group-title="France SD",[FR] Rmc.Story SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/595
+#EXTINF:-1 tvg-id="RMCSportAccess1.fr" tvg-name="[FR] RMC ACCESS SPORT 1 HD" tvg-logo="http://fauconteam.com/logo/RMC-SPORT-ACCESS-1.png" group-title="France HD",[FR] RMC ACCESS SPORT 1 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2462
+#EXTINF:-1 tvg-id="RMCSportAccess2.fr" tvg-name="[FR] RMC ACCESS SPORT 2 HD" tvg-logo="http://fauconteam.com/logo/RMC-SPORT-ACCESS-2.png" group-title="France HD",[FR] RMC ACCESS SPORT 2 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2464
+#EXTINF:-1 tvg-id="RMCSportAccess3.fr" tvg-name="[FR] RMC ACCESS SPORT 3 HD" tvg-logo="http://fauconteam.com/logo/RMC-SPORT-ACCESS-3.png" group-title="France HD",[FR] RMC ACCESS SPORT 3 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2466
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="[FR] RMC DECOUVERTE HD" tvg-logo="http://fauconteam.com/logo/rmcdecouvertehd.png" group-title="France HD",[FR] RMC DECOUVERTE HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2356
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="[FR] RMC SPORT 1 FHD" tvg-logo="http://fauconteam.com/rmcsport1hd.png" group-title="France FHD",[FR] RMC SPORT 1 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/790
+#EXTINF:-1 tvg-id="RMC Sport 1-FR" tvg-name="[FR] RMC SPORT 1 HD" tvg-logo="http://fauconteam.com/logo/rmcsport1hd.png" group-title="France HD",[FR] RMC SPORT 1 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2461
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="[FR] RMC Sport1 SD" tvg-logo="http://fauconteam.com/logo/rmcsport1.png" group-title="France SD",[FR] RMC Sport1 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/675
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="[FR] RMC SPORT 2 FHD" tvg-logo="http://fauconteam.com/rmcsport2hd.png" group-title="France FHD",[FR] RMC SPORT 2 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/791
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="[FR] RMC SPORT 2 HD" tvg-logo="http://fauconteam.com/logo/rmcsport2hd.png" group-title="France HD",[FR] RMC SPORT 2 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2463
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="[FR] RMC Sport2 SD" tvg-logo="http://fauconteam.com/logo/rmcsport2.png" group-title="France SD",[FR] RMC Sport2 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/676
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="[FR] RMC SPORT 3 FHD" tvg-logo="http://fauconteam.com/rmcsport3hd.png" group-title="France FHD",[FR] RMC SPORT 3 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/792
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="[FR] RMC SPORT 3 HD" tvg-logo="s:1:/images/13068e28f95ed88a1e9eb43497321c7a.png" group-title="France HD",[FR] RMC SPORT 3 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2465
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="[FR] RMC Sport3 SD" tvg-logo="s:1:/images/2b73940295f35ea29ff15fc7384d014a.png" group-title="France SD",[FR] RMC Sport3 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/677
+#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="[FR] RMC SPORT 4 FHD" tvg-logo="http://fauconteam.com/rmcsport4hd.png" group-title="France FHD",[FR] RMC SPORT 4 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/793
+#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="[FR] RMC SPORT 4 HD" tvg-logo="http://fauconteam.com/logo/rmcsport4hd.png" group-title="France HD",[FR] RMC SPORT 4 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2467
+#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="[FR] RMC Sport4 SD" tvg-logo="http://fauconteam.com/logo/rmcsport4.png" group-title="France SD",[FR] RMC Sport4 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/678
+#EXTINF:-1 tvg-id="RMCSportNews.fr" tvg-name="[FR] Rmc Sport News SD" tvg-logo="http://fauconteam.com/logo/rmcsportnews.png" group-title="France SD",[FR] Rmc Sport News SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/698
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC STORY FHD" tvg-logo="" group-title="France FHD",[FR] RMC STORY FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/11934
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="[FR] RMC STORY HD" tvg-logo="http://fauconteam.com/logo/rmcstory.png" group-title="France HD",[FR] RMC STORY HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2357
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RT FRANCE HD" tvg-logo="http://fauconteam.com/logo/rtfrance.png" group-title="France HD",[FR] RT FRANCE HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2397
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="[FR] RTL 9 FHD" tvg-logo="http://fauconteam.com/rtl9hd.png" group-title="France FHD",[FR] RTL 9 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/784
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="[FR] RTL9 HD" tvg-logo="http://fauconteam.com/logo/rtl9hd.png" group-title="France HD",[FR] RTL9 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2386
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="[FR] RTL9 SD" tvg-logo="http://fauconteam.com/logo/rtl9.png" group-title="France SD",[FR] RTL9 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/609
+#EXTINF:-1 tvg-id="ScienceVie.fr" tvg-name="[FR] SCIENCE & VIE TV HD" tvg-logo="http://fauconteam.com/logo/scienceetvie.png" group-title="France HD",[FR] SCIENCE & VIE TV HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2435
+#EXTINF:-1 tvg-id="ScienceVie.fr" tvg-name="[FR] Science et Vie SD" tvg-logo="http://fauconteam.com/logo/scienceetvietv.png" group-title="France SD",[FR] Science et Vie SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/644
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="[FR] SEASONS HD" tvg-logo="http://fauconteam.com/logo/seasons.png" group-title="France HD",[FR] SEASONS HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2436
+#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="[FR] SERIE-CLUB HD" tvg-logo="http://fauconteam.com/logo/serieclubhd.png" group-title="France HD",[FR] SERIE-CLUB HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2388
+#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="[FR] Serie.Club SD" tvg-logo="http://fauconteam.com/logo/serieclub.png" group-title="France SD",[FR] Serie.Club SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/605
+#EXTINF:-1 tvg-id="" tvg-name="[FR] SUI:RTS.Deux HD" tvg-logo="s:1:/images/c07dd5ff67bbf3e9c7a9005b18cddb47.png" group-title="France HD",[FR] SUI:RTS.Deux HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2503
+#EXTINF:-1 tvg-id="" tvg-name="[FR] SUI: RTS Un HD" tvg-logo="http://fauconteam.com/logo/rtsunhd.png" group-title="France HD",[FR] SUI: RTS Un HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2502
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="[FR] SYFY FHD" tvg-logo="http://fauconteam.com/syfyhd.png" group-title="France FHD",[FR] SYFY FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/785
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="[FR] SYFY HD" tvg-logo="http://fauconteam.com/logo/syfyhd.png" group-title="France HD",[FR] SYFY HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2389
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="[FR] SYFY SD" tvg-logo="http://fauconteam.com/logo/syfy.png" group-title="France SD",[FR] SYFY SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/603
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TCM.Cinema SD" tvg-logo="http://fauconteam.com/logo/tcmcinema.png" group-title="France SD",[FR] TCM.Cinema SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/628
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TCM CINEMA HD" tvg-logo="http://fauconteam.com/logo/tcmhdfrance.png" group-title="France HD",[FR] TCM CINEMA HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2385
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TELEFOOT STADIUM" tvg-logo="" group-title="France HD",[FR] TELEFOOT STADIUM
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15888
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TELEFOOT STADIUM 1" tvg-logo="s:1:/images/ea8b5ab6fe6348319f03e408f720182e.jpg" group-title="France HD",[FR] TELEFOOT STADIUM 1
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15889
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TELEFOOT STADIUM 2" tvg-logo="s:1:/images/935adbdadfdf94b7ba908779305b2ac6.jpg" group-title="France HD",[FR] TELEFOOT STADIUM 2
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15890
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TELEFOOT STADIUM 3" tvg-logo="s:1:/images/0a107b881bfd29845d5bcadd1cc04507.jpg" group-title="France HD",[FR] TELEFOOT STADIUM 3
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15891
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TELEFOOT STADIUM 4" tvg-logo="s:1:/images/66a43bd5a6d0930fdadfd67c3c341cfd.jpg" group-title="France HD",[FR] TELEFOOT STADIUM 4
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15892
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TELEFOOT STADIUM 5" tvg-logo="s:1:/images/b31e1264c2d530752d9d3dee3639edb6.jpg" group-title="France HD",[FR] TELEFOOT STADIUM 5
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/15893
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TELETOON+ SD" tvg-logo="http://fauconteam.com/logo/teletoonplus.png" group-title="France SD",[FR] TELETOON+ SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/672
+#EXTINF:-1 tvg-id="TeleTOON.fr" tvg-name="[FR] TELETOON FHD" tvg-logo="http://fauconteam.com/TELETOON-HD.png" group-title="France FHD",[FR] TELETOON FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/11935
+#EXTINF:-1 tvg-id="TeleTOON.fr" tvg-name="[FR] TELETOON HD" tvg-logo="http://fauconteam.com/logo/TELETOON-HD.png" group-title="France HD",[FR] TELETOON HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2406
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="[FR] TEVA FHD" tvg-logo="http://fauconteam.com/tevahd.png" group-title="France FHD",[FR] TEVA FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/786
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="[FR] TEVA HD" tvg-logo="http://fauconteam.com/logo/tevahd.png" group-title="France HD",[FR] TEVA HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2390
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="[FR] Teva SD" tvg-logo="http://fauconteam.com/logo/teva.png" group-title="France SD",[FR] Teva SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/602
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="[FR] TF1 FHD" tvg-logo="http://fauconteam.com/tf1hd.png" group-title="France FHD",[FR] TF1 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/787
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="[FR] TF1 HD" tvg-logo="s:1:/images/38f897aa71e3c01cc381bbbb206adff2.png" group-title="France HD",[FR] TF1 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2336
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="[FR] TF1 SD" tvg-logo="http://fauconteam.com/logo/tf1.png" group-title="France SD",[FR] TF1 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/585
+#EXTINF:-1 tvg-id="TFX-FR" tvg-name="[FR] TF1 SERIES/FILMS HD" tvg-logo="http://fauconteam.com/logo/tf1seriesfilms.png" group-title="France HD",[FR] TF1 SERIES/FILMS HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2354
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="[FR] TF1 SERIES FILMS FHD" tvg-logo="http://fauconteam.com/logo/tf1seriesfilms.png" group-title="France FHD",[FR] TF1 SERIES FILMS FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/11936
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="[FR] TF1.F.S.SD" tvg-logo="http://fauconteam.com/logo/tf1seriesfilms.png" group-title="France SD",[FR] TF1.F.S.SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/592
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="[FR] TFX FHD" tvg-logo="http://fauconteam.com/logo/tfx.png" group-title="France FHD",[FR] TFX FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/11937
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="[FR] TFX HD" tvg-logo="http://fauconteam.com/logo/tfx.png" group-title="France HD",[FR] TFX HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2346
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="[FR] TFX SD" tvg-logo="http://fauconteam.com/logo/tfx.png" group-title="France SD",[FR] TFX SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/593
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="[FR] TIJI HD" tvg-logo="http://fauconteam.com/logo/tijihd.png" group-title="France HD",[FR] TIJI HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2405
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="[FR] TIJI SD" tvg-logo="http://fauconteam.com/logo/tiji.png" group-title="France SD",[FR] TIJI SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/673
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="[FR] TMC HD" tvg-logo="http://fauconteam.com/logo/tmchd.png" group-title="France HD",[FR] TMC HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2345
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="[FR] TMC SD" tvg-logo="http://fauconteam.com/logo/tmc.png" group-title="France SD",[FR] TMC SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/599
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="[FR] Toonami SD" tvg-logo="http://fauconteam.com/logo/toonamifrance.png" group-title="France SD",[FR] Toonami SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/674
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="[FR] Toute.histoire SD" tvg-logo="http://fauconteam.com/logo/toutelhistoire.png" group-title="France SD",[FR] Toute.histoire SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/650
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="[FR] TOUTE L'HISTOIRE HD" tvg-logo="http://fauconteam.com/logo/toutelhistoire.png" group-title="France HD",[FR] TOUTE L'HISTOIRE HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2430
+#EXTINF:-1 tvg-id="TraceAFRICA.fr" tvg-name="[FR] Trace.Africa SD" tvg-logo="http://fauconteam.com/logo/traceafrica.png" group-title="France SD",[FR] Trace.Africa SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/715
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Trace.Gospel SD" tvg-logo="http://fauconteam.com/logo/TRACE-GOSPEL.png" group-title="France SD",[FR] Trace.Gospel SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/716
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Trace.Naija SD" tvg-logo="http://fauconteam.com/logo/TRACE-NAIJA.png" group-title="France SD",[FR] Trace.Naija SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/717
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Trace.Tropical SD" tvg-logo="http://fauconteam.com/logo/tracetropical.png" group-title="France SD",[FR] Trace.Tropical SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/718
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Trace.Urban SD" tvg-logo="s:1:/images/da731e700462de5f3ac5d9e761d71c11.png" group-title="France SD",[FR] Trace.Urban SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/719
+#EXTINF:-1 tvg-id="TraceAFRICA.fr" tvg-name="[FR] TRACE AFRICA HD" tvg-logo="http://fauconteam.com/logo/traceafrica.png" group-title="France HD",[FR] TRACE AFRICA HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2453
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TRACE AYITI HD" tvg-logo="http://fauconteam.com/logo/TRACE-AYITI.png" group-title="France HD",[FR] TRACE AYITI HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2454
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TRACE KITOKO HD" tvg-logo="" group-title="France HD",[FR] TRACE KITOKO HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2455
+#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="[FR] TRACE LATINA HD" tvg-logo="http://fauconteam.com/logo/tracelatina.png" group-title="France HD",[FR] TRACE LATINA HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2456
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TRACE MZIKI HD" tvg-logo="http://fauconteam.com/logo/TRACE-MZIKI.png" group-title="France HD",[FR] TRACE MZIKI HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2457
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TRACE NAIJA HD" tvg-logo="http://fauconteam.com/logo/TRACE-NAIJA.png" group-title="France HD",[FR] TRACE NAIJA HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2458
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TRACE SPORTS STARS SD" tvg-logo="" group-title="France SD",[FR] TRACE SPORTS STARS SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2500
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TRACE TOCA HD" tvg-logo="http://fauconteam.com/logo/tracetoca.png" group-title="France HD",[FR] TRACE TOCA HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2459
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TRACE TROPICAL HD" tvg-logo="http://fauconteam.com/logo/tracetropicalhd.png" group-title="France HD",[FR] TRACE TROPICAL HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2452
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TRACE URBAN HD" tvg-logo="s:1:/images/cecd7e741ae4b7f2837cfc2c7682f1df.png" group-title="France HD",[FR] TRACE URBAN HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2451
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="[FR] TREK HD" tvg-logo="http://fauconteam.com/logo/trek.png" group-title="France HD",[FR] TREK HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2437
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="[FR] TREK SD" tvg-logo="http://fauconteam.com/logo/trek.png" group-title="France SD",[FR] TREK SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/651
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="[FR] TV.Breizh SD" tvg-logo="http://fauconteam.com/logo/tvbreizh.png" group-title="France SD",[FR] TV.Breizh SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/604
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="[FR] TV BREIZH FHD" tvg-logo="http://fauconteam.com/tvbreizhhd.png" group-title="France FHD",[FR] TV BREIZH FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/788
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="[FR] TV BREIZH HD" tvg-logo="http://fauconteam.com/logo/tvbreizhhd.png" group-title="France HD",[FR] TV BREIZH HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2392
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="[FR] USHUAIA SD" tvg-logo="http://fauconteam.com/logo/ushuaiasd.png" group-title="France SD",[FR] USHUAIA SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/645
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="[FR] USHUAIA TV FHD" tvg-logo="http://fauconteam.com/logo/ushuaiatvhd.png" group-title="France FHD",[FR] USHUAIA TV FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/11938
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="[FR] USHUAIA TV HD" tvg-logo="http://fauconteam.com/logo/ushuaiatvhd.png" group-title="France HD",[FR] USHUAIA TV HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2434
+#EXTINF:-1 tvg-id="Voyage.fr" tvg-name="[FR] VOYAGE HD" tvg-logo="http://fauconteam.com/logo/voyagehd.png" group-title="France HD",[FR] VOYAGE HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2431
+#EXTINF:-1 tvg-id="Voyage.fr" tvg-name="[FR] Voyage SD" tvg-logo="http://fauconteam.com/logo/voyage.png" group-title="France SD",[FR] Voyage SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/646
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="[FR] W9 FHD" tvg-logo="http://fauconteam.com/w9hd.png" group-title="France FHD",[FR] W9 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/789
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="[FR] W9 HD" tvg-logo="http://fauconteam.com/logo/w9hd.png" group-title="France HD",[FR] W9 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2344
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="[FR] W9 SD" tvg-logo="http://fauconteam.com/logo/w9.png" group-title="France SD",[FR] W9 SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/598
+#EXTINF:-1 tvg-id="Warnertv.fr" tvg-name="[FR] WARNER TV FHD" tvg-logo="http://fauconteam.com/logo/warnertv.png" group-title="France FHD",[FR] WARNER TV FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/11939
+#EXTINF:-1 tvg-id="Warnertv.fr" tvg-name="[FR] WARNER TV HD" tvg-logo="http://fauconteam.com/logo/warnertv.png" group-title="France HD",[FR] WARNER TV HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/2382
+#EXTINF:-1 tvg-id="Action24.gr" tvg-name="[GR]  ACTION 24" tvg-logo="" group-title="Greek",[GR]  ACTION 24
