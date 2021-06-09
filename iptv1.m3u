@@ -4743,7 +4743,6 @@ https://cdn8.ovid.monster/storage/movie/15/15530/video.mp4
 https://cdn11.ovid.monster/storage/movie/15/15478/video.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15479/cover.jpg?15479" group-title="(VOD2 Yerli film) YILMAZTV",Her Åžey Seninle GÃ¼zel (2018) |IMDb: 3.5 | TÃ¼r: Komedi | Romantik | Yerli film
-#EXTM3U
 #EXTINF:0 type="stream" group="Ulusal" channelId="1056" logo="https://i.imgur.com/A6nCXZN.png", TRT 1 FHD
 http://149.255.152.66:8080/trt1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group="Ulusal" channelId="1056" logo="https://i.imgur.com/A6nCXZN.png", TRT 1 HD
