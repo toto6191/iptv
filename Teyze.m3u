@@ -1634,10 +1634,6 @@
 #EXTINF:0,http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:0 type="stream" group="Türki-Diğer" channelId="-1" logo="https://i.imgur.com/1Q5alos.png", Çerkes - Arkhyz 24
 #EXTINF:0,http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-# ipt#EXTM3U #ULUSAL, SD, SPOR, AZERBAYCAN, VOD, MOBESE, ALMAN, RADYO, 15942 KANALLAR İÇERİR | WWW.OZBECERIKSIZLER.NET | YILMAZTV#
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",|----------(ULUSAL HD/SD  Dahili Decorder ayarlayın) KANALLAR----------| WWW.OZBECERIKSIZLER.NET | YILMAZTV
-#EXTINF:0,https://www.yilmaztv.com/yilmaztvspot.mp4?sd
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt1.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TRT 1 | Ulusal
 #EXTINF:0,https://www.yilmaztv.com/oz/oz.php?channel=trt1&stream=2&id=15942&p=68949091afa1efcea53b43e4b84349ee&type=m3u8
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/atv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",ATV | Ulusal
@@ -7886,7 +7882,7 @@
 #EXTINF:0,http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/237689
 #EXTINF:0 tvg-country="DE" tvg-logo="https://www.yilmaztv.com/logo/de.png" group-title="GERMANY www.ozbeceriksizler.net",Telekom Fussball Liga 4
 #EXTINF:0,http://iptv.fronteratvonline.com:8080/teo/teo/101033
-#EXTINF:0 tvg-country="DE" tvg-logo="https://www.yilmaztv.com/logo/de.png" group-title="GERMANY www.ozbeceriksizler.net",Teletubbies HD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://www.yilmaztv.com/logo/de.png" group-title="GERMANY www.ozbeceriksizler.net",Teletubbies HD
 #EXTINF:0,http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60390
 #EXTINF:0 tvg-country="DE" tvg-logo="https://www.yilmaztv.com/logo/de.png" group-title="GERMANY www.ozbeceriksizler.net",The 100 24/7
 #EXTINF:0,http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/15389
@@ -8091,11 +8087,7 @@
 #EXTINF:0 tvg-country="DE" tvg-logo="https://www.yilmaztv.com/logo/de.png" group-title="GERMANY www.ozbeceriksizler.net",tagesschau 24 HD
 #EXTINF:0,http://satlok.xyz:8000/ohan04HH/HN0410hn/76219
 #EXTINF:0 tvg-country="DE" tvg-logo="https://www.yilmaztv.com/logo/de.png" group-title="GERMANY www.ozbeceriksizler.net",tagesschau24
-#EXTINF:0,https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | YILMAZTV",----------POP RADYO KANALLARI----------
-#EXTINF:0,https://www.yilmaztv.com/yilmaztvspot.mp4?pop
-#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/super-fm.png" group-title="RADYO KANALLARI  | YILMAZTV",Süper FM | Pop
-#EXTINF:0,https://17703.live.streamtheworld.com/SUPER_FM_SC?type=.mp3
+#EXTINF:0,https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/ind
 #EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-akdeniz-95-0.png" group-title="RADYO KANALLARI  | YILMAZTV",Radyo Akdeniz 95.0  | Pop
 #EXTINF:0,http://95.173.162.188:9310/;?type=mp3
 #EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/beste-fm.png" group-title="RADYO KANALLARI  | YILMAZTV",Beste FM | Pop
